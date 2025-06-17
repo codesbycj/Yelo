@@ -1,6 +1,7 @@
 // JQUERY
 $(document).ready(function () {
   $(".coursePlan").hide();
+  $(".iRotate").css("transform", "rotate(270deg)");
 });
 
 $(".courseDrop").click(function () {
@@ -14,9 +15,9 @@ $(".courseDrop").click(function () {
 
   if (!coursePlan.is(":visible")) {
     coursePlan.slideDown("slow");
-    rotateOne.css("transform", "rotate(180deg)");
+    rotateOne.css("transform", "rotate(360deg)");
   } else {
     coursePlan.slideUp("slow");
-    rotateOne.css("transform", "rotate(0deg)");
+    rotateOne.css("transform", "rotate(270deg)");
   }
 });
