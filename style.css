@@ -210,7 +210,7 @@ body {
   height: 100%;
   object-fit: cover;
   object-position: center;
-  top: 15%;
+  /* top:  */
   position: absolute;
   left: 0%;
 }
