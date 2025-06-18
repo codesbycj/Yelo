@@ -4,7 +4,7 @@ $(document).ready(function () {
   $(".iRotate").css("transform", "rotate(270deg)");
 });
 
-$(".courseDrop").click(function () {
+$(".courseWide").click(function () {
   $(".coursePlan").slideUp();
 
   const course = $(this).closest(".course");
@@ -21,3 +21,6 @@ $(".courseDrop").click(function () {
     rotateOne.css("transform", "rotate(270deg)");
   }
 });
+
+
+

@@ -919,19 +919,59 @@ footer {
   text-align: center;
 }
 
-.table .course > p {
+.table .courseWide > p {
   padding: 1rem 2rem;
-  cursor: pointer;  
+  cursor: pointer;
   border-radius: 20px;
 }
 
-
-.table .course > p:hover i,
-.table .course > p:hover {
+.table .courseWide > p:hover i,
+.table .courseWide > p:hover {
   background-color: #eeedec;
 }
 
-.courseDrop {
+.courseWide {
   font-size: 24px;
   border-bottom: 2px solid #eeedec;
+  border-radius: 20px;
 }
+
+/* FAQ */
+#faq {
+  padding: 4rem 0;
+}
+
+.faq {
+  display: flex;
+  justify-content: space-between;
+}
+
+.faq .courseDrop {
+  font-size: 20px;
+}
+
+.faq .left {
+  padding: 3rem 0;
+  width: 40%;
+}
+
+.faq .right {
+  width: 60%;
+  cursor: pointer;
+}
+
+.faq .courseWide {
+  padding: 1rem 2rem;
+  border-radius: 0px;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.faq .coursePlan {
+  font-size: 20px;
+  padding: 1rem 2rem;
+}
+
+
