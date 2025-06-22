@@ -2,6 +2,7 @@
 $(document).ready(function () {
   $(".coursePlan").hide();
   $(".iRotate").css("transform", "rotate(270deg)");
+  $('.content').hide();
 });
 
 $(".courseWide").click(function () {
@@ -21,6 +22,12 @@ $(".courseWide").click(function () {
     rotateOne.css("transform", "rotate(270deg)");
   }
 });
+
+$('.nav-item').click(function () {
+  console.log('baer');
+
+  $('.content').slideDown();
+})
 
 
 
