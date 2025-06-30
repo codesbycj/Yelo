@@ -1,6 +1,6 @@
- <nav class="navbar navbar-expand-lg" style="position: fixed; margin: 0 auto;">
+    <nav class="navbar navbar-expand-lg" style="position: fixed; margin: 0 auto;">
         <div class="container-fluid container">
-            <a class="navbar-brand" href="#"><img src="assets/10001.png" alt="" srcset=""></a>
+            <a class="navbar-brand" href="index.php"><img src="assets/10001.png" alt="" srcset=""></a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -69,21 +69,77 @@
                     </div>
                     <div class="nav-item me-5">
                         <a class="nav-link" href="#">Who we work with</a>
+                        <div class="boxTypeShii container"></div>
+                        <div class="content container" style="z-index: 0;">
+                            <div class="each">
+                                <div class="eachone">
+                                    <h6>401(k)</h6>
+                                    <p class="my-0" style="color: gray; font-weight: 500;">Impact retirment plans for
+                                        businesses of any size</p>
+                                </div>
+
+                                <div class="eachone">
+                                    <h6>IRA</h6>
+                                    <p class="my-0" style="color: gray; font-weight: 500;">Impact retirment plans for
+                                        businesses of any size</p>
+                                </div>
+
+                                <div class="eachone">
+                                    <h6>Guideline Pro</h6>
+                                    <p class="my-0" style="color: gray; font-weight: 500;">Impact retirment plans for
+                                        businesses of any size</p>
+                                </div>
+                            </div>
+
+                            <div class="each">
+                                <div class="eachone">
+                                    <h6>401(k)</h6>
+                                    <p class="my-0" style="color: gray; font-weight: 500;">Impact retirment plans for
+                                        businesses of any size</p>
+                                </div>
+
+                                <div class="eachone">
+                                    <h6>IRA</h6>
+                                    <p class="my-0" style="color: gray; font-weight: 500;">Impact retirment plans for
+                                        businesses of any size</p>
+                                </div>
+
+                                <div class="eachone">
+                                    <h6>Guideline Pro</h6>
+                                    <p class="my-0" style="color: gray; font-weight: 500;">Impact retirment plans for
+                                        businesses of any size</p>
+                                </div>
+                            </div>
+
+                            <div class="each">
+                                <div class="eachone">
+                                    <h3>Yelocode</h3>
+                                    <p>Built for financial and benefits professionals. Help your clients achieve their
+                                        financial goals with our plans, tools and support — join Guideline Pro for free
+                                        today.</p>
+                                    <div class="buttons">
+                                        <button>Get Started</button>
+                                        <a href="">Learn More</a>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
                     </div>
                     <div class="nav-item me-5">
-                        <a class="nav-link" href="portfolio.html">Portfolio</a>
+                        <a class="nav-link" href="portfolio.php">Portfolio</a>
                     </div>
                     <div class="nav-item me-5">
                         <a class="nav-link" href="#">Education</a>
                     </div>
                     <div class="nav-item">
-                        <a class="nav-link" href="pricing.html">Pricing</a>
+                        <a class="nav-link" href="pricing.php">Pricing</a>
                     </div>
 
                 </div>
                 <ul class="navbar-nav mb-2 mb-lg-0 navOther">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Login</a>
+                        <a class="nav-link" href="login.php">Login</a>
                     </li>
                     <li class="nav-item">
                         <button class="nav-link" href="#">Get Started</button>
