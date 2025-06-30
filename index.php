@@ -27,9 +27,8 @@
     <section id="hero">
         <div class="hero container">
             <div class="left">
-                <h2 class="display-4">A modern 401(k) your team will love</h2>
-                <p class="lead">Get an easy, affordable retirement plan that can be customized for your business goals
-                    and your team.</p>
+                <h2 class="display-4">Craft products that simplify and optimize life.</h2>
+                <p class="lead">Your partner in groundbreaking technology solutions, transforming ideas into impactful digital experiences</p>
 
                 <div class="inputSec">
                     <input type="text" name="" id="" placeholder="Enter your work email address">
@@ -56,7 +55,7 @@
         <div class="wwa container">
             <div class="wwaEmployers text-center">
                 <h2>We work with World's Top Companies</h2>
-                <p>Dedicated to crafting user-focused solutions that seamlessly merge technology with creativity.</p>
+                <p>Focused on building solutions where technology meets creativity.</p>
 
 
                 <div class="wrapper">
@@ -82,24 +81,24 @@
             </div>
 
             <div class="business">
-                <p class="display-4">50</p>
+                <p class="display-4">27</p>
                 <p>Developers</p>
             </div>
 
             <div class="business">
-                <p class="display-4">500</p>
+                <p class="display-4">76</p>
                 <p>Satisfied Customers</p>
             </div>
 
             <div class="business">
-                <p class="display-4">800+</p>
+                <p class="display-4">104+</p>
                 <p>Completed Projects</p>
             </div>
 
             <div class="business">
                 <img src="assets/stars.svg" alt="" srcset="">
-                <p>Business.com Editor's Rating,
-                    Top 401(k) for Small Business6</p>
+                <p>Yelocodesys.com Editor's Rating,
+                    Top 401(k) for Small Business</p>
             </div>
         </div>
     </section>
