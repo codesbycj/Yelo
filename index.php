@@ -35,7 +35,7 @@
                     <button type="submit">Explore</button>
                 </div>
 
-                <p style="margin-top: 2rem;">Already have a Guideline account? <a href=""
+                <p style="margin-top: 2rem;">Already have a Yelocode account? <a href=""
                         style="font-weight: 500; color: var(--color-black);">Click here to log in</a></p>
 
                 <p style="font-size: 12px; margin-top: 4rem;">See our Privacy Policy to learn how we use and protect

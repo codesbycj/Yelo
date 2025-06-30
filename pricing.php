@@ -145,8 +145,8 @@
 
                 <p class="my-0" style="font-size: 11px;">Refer to Guideline's Form ADV 2A Brochure for additional
                     information
-                    regarding Guideline Investment, LLC fees.
-                    See here for more information regarding Guideline RK, LLC fees.</p>
+                    regarding Yelocode Investment, LLC fees.
+                    See here for more information regarding Yelocode RK, LLC fees.</p>
             </div>
         </div>
     </div>

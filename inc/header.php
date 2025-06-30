@@ -26,7 +26,7 @@
                                 </div>
 
                                 <div class="eachone">
-                                    <h6>Guideline Pro</h6>
+                                    <h6>Yelocode Pro</h6>
                                     <p class="my-0" style="color: gray; font-weight: 500;">Impact retirment plans for
                                         businesses of any size</p>
                                 </div>
@@ -46,7 +46,7 @@
                                 </div>
 
                                 <div class="eachone">
-                                    <h6>Guideline Pro</h6>
+                                    <h6>Yelocode Pro</h6>
                                     <p class="my-0" style="color: gray; font-weight: 500;">Impact retirment plans for
                                         businesses of any size</p>
                                 </div>
@@ -56,7 +56,7 @@
                                 <div class="eachone">
                                     <h3>Yelocode</h3>
                                     <p>Built for financial and benefits professionals. Help your clients achieve their
-                                        financial goals with our plans, tools and support — join Guideline Pro for free
+                                        financial goals with our plans, tools and support — join Yelocode Pro for free
                                         today.</p>
                                     <div class="buttons">
                                         <button>Get Started</button>
@@ -85,7 +85,7 @@
                                 </div>
 
                                 <div class="eachone">
-                                    <h6>Guideline Pro</h6>
+                                    <h6>Yelocode Pro</h6>
                                     <p class="my-0" style="color: gray; font-weight: 500;">Impact retirment plans for
                                         businesses of any size</p>
                                 </div>
@@ -105,7 +105,7 @@
                                 </div>
 
                                 <div class="eachone">
-                                    <h6>Guideline Pro</h6>
+                                    <h6>Yelocode Pro</h6>
                                     <p class="my-0" style="color: gray; font-weight: 500;">Impact retirment plans for
                                         businesses of any size</p>
                                 </div>
@@ -115,7 +115,7 @@
                                 <div class="eachone">
                                     <h3>Yelocode</h3>
                                     <p>Built for financial and benefits professionals. Help your clients achieve their
-                                        financial goals with our plans, tools and support — join Guideline Pro for free
+                                        financial goals with our plans, tools and support — join Yelocode Pro for free
                                         today.</p>
                                     <div class="buttons">
                                         <button>Get Started</button>
