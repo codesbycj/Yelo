@@ -49,6 +49,11 @@
         </div>
     </section>
 
+
+    <!-- STUDENTS DETAILS -->
+    <?php include('inc/student.php') ?>
+
+
     <!-- WHO WE ARE -->
 
     <div id="wwa">

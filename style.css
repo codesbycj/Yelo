@@ -245,6 +245,129 @@ body {
   margin: 0;
 }
 
+/* STUDENT DETAILS */
+
+#details {
+  padding: 5rem 0;
+  overflow: hidden;
+}
+
+.details {
+  height: 500px;
+  position: relative;
+  /* border: 3px solid blue; */
+  display: grid;
+  overflow: hidden;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 6rem;
+  mask-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0.1),
+    rgba(0, 0, 0, 1) 20%,
+    rgba(0, 0, 0, 1) 80%,
+    rgba(0, 0, 0, 0.1)
+  );
+}
+
+.details .left {
+  left: 0;
+}
+
+.details .rights {
+  right: 30rem;
+}
+
+.details .middle {
+  left: 33%;
+}
+
+.details .left,
+.details .middle,
+.details .rights {
+  display: flex;
+  position: absolute;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.details img {
+  object-fit: contain;
+  /* border: 2px solid green; */
+  width: 500px;
+  height: 500px;
+}
+
+.details .left .box,
+.details .middle .box,
+.details .rights .box {
+  position: absolute;
+}
+
+.details .left .box {
+  animation-name: scrollDown2;
+  animation-duration: 240s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.details .rights .box {
+  animation-name: scrollDown2;
+  animation-duration: 90s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+.details .middle .box {
+  animation-name: scrollUp2;
+  animation-duration: 240s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+}
+
+@keyframes scrollDown2 {
+  0% {
+    transform: translateY(-700px);
+  }
+  100% {
+    transform: translateY(1000px);
+  }
+}
+
+@keyframes scrollUp2 {
+  0% {
+    transform: translateY(1000px);
+  }
+  100% {
+    transform: translateY(-700px);
+  }
+}
+
+.up1 {
+  animation-delay: calc(240s / 3 * (3 - 1) * -1);
+  /* background-color: purple; */
+}
+.up2 {
+  animation-delay: calc(240s / 3 * (3 - 2) * -1);
+  /* background-color: purple; */
+}
+.up3 {
+  animation-delay: calc(240s / 3 * (3 - 3) * -1);
+  /* background-color: purple; */
+}
+
+.uep1 {
+  animation-delay: calc(90s / 3 * (3 - 1) * -1);
+  /* background-color: purple; */
+}
+.uep2 {
+  animation-delay: calc(90s / 3 * (3 - 2) * -1);
+  /* background-color: purple; */
+}
+.uep3 {
+  animation-delay: calc(90s / 3 * (3 - 3) * -1);
+  /* background-color: purple; */
+}
+
 /* WHO WE ARE */
 
 #wwa {
@@ -1152,7 +1275,6 @@ footer {
   font-size: 12px;
 }
 
-
 /* LOGIN */
 /* LOGIN */
 /* LOGIN */
@@ -1184,7 +1306,6 @@ footer {
 .login .right .insideRight {
   width: 80%;
 }
-
 
 .login .logo {
   font-size: 1.5rem;
