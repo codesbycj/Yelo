@@ -95,8 +95,8 @@ body {
   transition: 2s ease;
 }
 
-.nav-item:hover .content,
-.nav-item:hover .boxTypeShii {
+.navbar-nav .nav-item:hover .content,
+.navbar-nav .nav-item:hover .boxTypeShii {
   display: flex !important;
 }
 
@@ -247,12 +247,12 @@ body {
 
 /* STUDENT DETAILS */
 
-#details {
+#studentDetails {
   padding: 5rem 0;
   overflow: hidden;
 }
 
-.details {
+.studentDetails {
   height: 500px;
   position: relative;
   /* border: 3px solid blue; */
@@ -269,55 +269,55 @@ body {
   );
 }
 
-.details .left {
+.studentDetails .lefts {
   left: 0;
 }
 
-.details .rights {
+.studentDetails .rights {
   right: 30rem;
 }
 
-.details .middle {
+.studentDetails .middles {
   left: 33%;
 }
 
-.details .left,
-.details .middle,
-.details .rights {
+.studentDetails .lefts,
+.studentDetails .middles,
+.studentDetails .rights {
   display: flex;
   position: absolute;
   flex-direction: column;
   gap: 3rem;
 }
 
-.details img {
+.studentDetails img {
   object-fit: contain;
   /* border: 2px solid green; */
   width: 500px;
   height: 500px;
 }
 
-.details .left .box,
-.details .middle .box,
-.details .rights .box {
+.studentDetails .lefts .box,
+.studentDetails .middles .box,
+.studentDetails .rights .box {
   position: absolute;
 }
 
-.details .left .box {
+.studentDetails .lefts .box {
   animation-name: scrollDown2;
   animation-duration: 240s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 }
 
-.details .rights .box {
+.studentDetails .rights .box {
   animation-name: scrollDown2;
   animation-duration: 90s;
   animation-timing-function: linear;
   animation-iteration-count: infinite;
 }
 
-.details .middle .box {
+.studentDetails .middles .box {
   animation-name: scrollUp2;
   animation-duration: 240s;
   animation-timing-function: linear;
@@ -1274,6 +1274,7 @@ footer {
 .cardimg .right span {
   font-size: 12px;
 }
+
 
 /* LOGIN */
 /* LOGIN */
