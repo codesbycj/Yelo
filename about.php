@@ -74,6 +74,32 @@
         </div>
     </section>
 
+    <!-- CULTURE -->
+    <section id="culture">
+        <div class="culture container">
+            <div class="top text-center">
+                <p class="my-0">Our Culture</p>
+                <h1>Tailored training sessions for teams and organizations based on specific business needs.</h1>
+            </div>
+
+            <div class="bottom d-flex ">
+                <div class="mission">
+                    <h2>Mission</h2>
+                    <p>To design and deliver transformative solutions and training programs 
+                        that align human potential with the limitless possibilities of technology.</p>
+                </div>
+
+                <div class="vision">
+                    <h2>Vision</h2>
+                    <p>To be a global leader in technology innovation and education, enabling businesses and
+                         individuals to thrive in an increasingly digital world.</p>
+                </div>
+            </div>
+
+            <p>"Innovate. Educate. Elevate."</p>
+        </div>
+    </section>
+
     <!-- TEAM -->
     <section id="aboutTeam">
         <div class="aboutTeam container">
