@@ -353,7 +353,7 @@
                                     <p>✔ Tableau</p>
                                     <p>✔ Data cleaning</p>
                                     <p>✔ Basic viz</p>
-                                    
+
                                 </div>
                             </div>
                         </div>
@@ -381,7 +381,7 @@
                                     <p>✔ Statistical analysis</p>
                                     <p>✔ Dashboarding</p>
                                     <p>✔ Job placement assistance</p>
-                                    
+
                                 </div>
                             </div>
                         </div>
@@ -410,13 +410,173 @@
                                     <p>✔ Machine Learning</p>
                                     <p>✔ Predictive Modeling</p>
                                     <p>✔ 1:1 mentorship + LinkedIn optimization</p>
-                                   
+
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
+
+
+            <div class="course">
+                <div class="courseWide">
+                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i> Python Program
+                    </p>
+                </div>
+                <div class="coursePlan">
+                    <div class="middle my-5">
+                        <div class="carrd">
+                            <div class="package">
+                                <h6 class="my-0">NOVA PRIME</h6>
+                            </div>
+
+                            <div class="carrdPadding">
+
+                                <div class="price">
+                                    <h2>₦200,000 <span style="font-size: 16px;">/2 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">+ 10 Live Projects. </p>
+
+                                    <p>Absolute beginners or Excel users automating tasks</p>
+
+                                    <button class="mt-3 btnStarted">Get Started</button>
+                                </div>
+
+                                <div class="details mt-4">
+                                    <p>✔ 10 mini-projects</p>
+                                    <p>✔ Python basics, Jupyter</p>
+                                    <p>✔ Syntax, loops, functions</p>
+                                    <p>✔ Python Fundamentals</p>
+                                    <p>✔ Data cleaning</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carrd">
+                            <div class="package">
+                                <h6 class="my-0">AXIS IGNITE</h6>
+                            </div>
+
+                            <div class="carrdPadding">
+
+                                <div class="price">
+                                    <h2>₦550,000 <span style="font-size: 16px;">/4 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">+ 20 Live Projects. </p>
+
+                                    <p>Career switchers targeting developer roles</p>
+
+                                    <button class="mt-3 btnStarted">Get Started</button>
+                                </div>
+
+                                <div class="details mt-4">
+                                    <p>✔ 20 real-world apps</p>
+                                    <p>✔ Django/Flask</p>
+                                    <p>✔ Web dev</p>
+                                    <p>✔ automation scripts</p>
+                                    <p>✔ SQL</p>
+                                    <p>✔ APIs</p>
+                                    <p>✔ Job placement assistance</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carrd">
+                            <div class="package">
+                                <h6 class="my-0">QUANTA ELITE</h6>
+                            </div>
+
+                            <div class="carrdPadding">
+
+                                <div class="price">
+                                    <h2>₦900,000 <span style="font-size: 16px;">/8 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">+ 30 Live Projects. </p>
+
+                                    <p>Developers upskilling to AI/cloud specialties</p>
+
+                                    <button class="mt-3 btnStarted">Get Started</button>
+                                </div>
+
+                                <div class="details mt-4">
+                                    <p>✔ 30+ projects + Capstone</p>
+                                    <p>✔ ML (TensorFlow)</p>
+                                    <p>✔ AI/ML</p>
+                                    <p>✔ Cloud deployment</p>
+                                    <p>✔ TensorFlow</p>
+                                    <p>✔ Async</p>
+                                    <p>✔ AWS</p>
+                                    <p>✔ 1:1 mentorship + LinkedIn optimization</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="course">
+                <div class="courseWide">
+                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i>Digital Marketing Program
+                    </p>
+                </div>
+                <div class="coursePlan">
+                    <div class="middle my-5">
+                        <div class="carrd">
+                            <div class="package">
+                                <h6 class="my-0">NOVA PRIME</h6>
+                            </div>
+
+                            <div class="carrdPadding">
+
+                                <div class="price">
+                                    <h2>₦150,000 <span style="font-size: 16px;">/2 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">+ 5 live campaigns. </p>
+
+                                    <p> Focuses on low-budget strategies for small businesses</p>
+
+                                    <button class="mt-3 btnStarted">Get Started</button>
+                                </div>
+
+                                <div class="details mt-4">
+                                    <p>✔ 5 live campaigns</p>
+                                    <p>✔ Social Media, SEO basics</p>
+                                    <p>✔ Canva, Google Analytics</p>
+                                    <p>✔ Digital Marketing Fundamentals</p>
+                                    <p>✔ Freelance setup</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carrd">
+                            <div class="package">
+                                <h6 class="my-0">AXIS IGNITE</h6>
+                            </div>
+
+                            <div class="carrdPadding">
+
+                                <div class="price">
+                                    <h2>₦350,000 <span style="font-size: 16px;">/3 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">+ 15 client projects. </p>
+
+                                    <p>Career switchers targeting developer roles</p>
+
+                                    <button class="mt-3 btnStarted">Get Started</button>
+                                </div>
+
+                                <div class="details mt-4">
+                                    <p>✔ 15 client projects</p>
+                                    <p>✔ Paid ads (Meta/Google), Email Marketing</p>
+                                    <p>✔ Meta Ads Manager </p>
+                                    <p>✔ Google Ads, Microsoft, Meta </p>
+                                    <p>✔ Professional Digital Marketer</p>
+                                    <p>✔ Job placement assistance</p>
+                                    <p>✔ APIs</p>
+                                    <p>✔ Job placement assistance</p>
+
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+
 
 
             <div class="course">
