@@ -28,7 +28,8 @@
         <div class="hero container">
             <div class="left">
                 <h2 class="display-4">Develop products that simplify and improve daily life.</h2>
-                <p class="lead">Your partner in groundbreaking technology solutions, transforming ideas into impactful digital experiences</p>
+                <p class="lead">Your partner in groundbreaking technology solutions, transforming ideas into impactful
+                    digital experiences</p>
 
                 <div class="inputSec">
                     <input type="text" name="" id="" placeholder="Enter your work email address">
@@ -42,10 +43,66 @@
                     your information.</p>
             </div>
 
-            <div class="right">
-                <img src="assets/Smile.jpeg" alt="" srcset="">
-                <img src="https://img.freepik.com/free-photo/woman-wearing-virtual-reality-simulator_23-2148910255.jpg?t=st=1735945674~exp=1735949274~hmac=a0a5903f865e09b0673364a3f02d4f18e88afaf0fc0a0b197fca3373b283a002&w=826" alt="" srcset="">
+            <div id="carouselExampleAutoplaying" class="carousel slide right" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="assets/Smile.jpeg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/up3.jpeg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="assets/up2.jpeg" class="d-block w-100" alt="...">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying"
+                    data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleAutoplaying"
+                    data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
             </div>
+
+            <!-- <div class="right swiper">
+                <ul class="swiper-wrapper">
+                    <li class="swiper-slide">
+                        <div class="wrapper">
+                            <img class="slide1" src="assets/Smile.jpeg" alt="" srcset="">
+                        </div>
+                    </li>
+                    <li class="swiper-slide">
+                        <div class="wrapper">
+                            <img class="slide2" src="assets/up3.jpeg" alt="" srcset="">
+                        </div>
+                    </li>
+                    <li class="swiper-slide">
+                        <div class="wrapper">
+                            <img class="slide3" src="assets/up2.jpeg" alt="" srcset="">
+                        </div>
+                    </li>
+                    <li class="swiper-slide">
+                        <div class="wrapper">
+                            <img class="slide4" src="assets/up1.jpeg" alt="" srcset="">
+                        </div>
+                    </li>
+                    <li class="swiper-slide">
+                        <div class="wrapper">
+                            <img class="slide5"
+                                src="https://img.freepik.com/free-photo/woman-wearing-virtual-reality-simulator_23-2148910255.jpg?t=st=1735945674~exp=1735949274~hmac=a0a5903f865e09b0673364a3f02d4f18e88afaf0fc0a0b197fca3373b283a002&w=826"
+                                alt="" srcset="">
+                        </div>
+                    </li>
+                </ul>
+
+                <div class="swiper-pagination"></div>
+
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+            </div> -->
         </div>
     </section>
 
