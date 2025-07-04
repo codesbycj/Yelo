@@ -27,8 +27,7 @@
     <div id="pricingHero">
         <div class="pricingHero container">
             <div class="top text-center">
-                <h2 class="display-3 fw-bolder">Powerful plans for
-                    businesses of any size</h2>
+                <h2 class="display-3 fw-bolder">Each tier targets higher-paying roles</h2>
 
                 <p class="my-0">Our 401(k) plans come with low monthly costs and no transaction fees. So you won’t have
                     to pay extra for plan setup, plan transfers, or 5500 prep1.
@@ -526,7 +525,7 @@
                             <div class="carrdPadding">
 
                                 <div class="price">
-                                    <h2>₦150,000 <span style="font-size: 16px;">/2 months</span></h2>
+                                    <h2>₦180,000 <span style="font-size: 16px;">/2 months</span></h2>
                                     <p class="my-0 fw-bold mb-4">+ 5 live campaigns. </p>
 
                                     <p> Focuses on low-budget strategies for small businesses</p>
@@ -563,16 +562,186 @@
                                     <p>✔ 15 client projects</p>
                                     <p>✔ Paid ads (Meta/Google), Email Marketing</p>
                                     <p>✔ Meta Ads Manager </p>
-                                    <p>✔ Google Ads, Microsoft, Meta </p>
+                                    <p>✔ Google Ads, Microsoft, Meta, Tiktok </p>
                                     <p>✔ Professional Digital Marketer</p>
                                     <p>✔ Job placement assistance</p>
-                                    <p>✔ APIs</p>
+
+                                </div>
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="course">
+                <div class="courseWide">
+                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i>Mobile App Development
+                    </p>
+                </div>
+                <div class="coursePlan">
+                    <div class="middle my-5">
+                        <div class="carrd">
+                            <div class="package">
+                                <h6 class="my-0">NOVA PRIME</h6>
+                            </div>
+
+                            <div class="carrdPadding">
+
+                                <div class="price">
+                                    <h2>₦420,000 <span style="font-size: 16px;">/3 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">+ 6 basic apps. </p>
+
+                                    <p> Those new to programming wanting quick results</p>
+
+                                    <button class="mt-3 btnStarted">Get Started</button>
+                                </div>
+
+                                <div class="details mt-4">
+                                    <p>✔ 6 basic apps</p>
+                                    <p>✔ Flutter (Cross-platform)</p>
+                                    <p>✔ UI Design, Basic Logic</p>
+                                    <p>✔ Firebase</p>
+                                    <p>✔ App Developer Certificate</p>
+                                    <p>✔ Freelance preparation</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="carrd">
+                            <div class="package">
+                                <h6 class="my-0">AXIS IGNITE</h6>
+                            </div>
+
+                            <div class="carrdPadding">
+
+                                <div class="price">
+                                    <h2>₦1.4M <span style="font-size: 16px;">/10 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">+ 25+ apps + App Store publish. </p>
+
+                                    <p>Developers aiming for senior/tech lead positions</p>
+
+                                    <button class="mt-3 btnStarted">Get Started</button>
+                                </div>
+
+                                <div class="details mt-4">
+                                    <p>✔ 25+ apps + App Store publish</p>
+                                    <p>✔ Flutter + Native (Kotlin/Swift)</p>
+                                    <p>✔ API Integration, State Management </p>
+                                    <p>✔ Node.js </p>
+                                    <p>✔ Firebase </p>
+                                    <p>✔ Performance Optimization</p>
+                                    <p>✔ Custom Backend (Go/Python)</p>
+                                    <p>✔ Native + React Native</p>
                                     <p>✔ Job placement assistance</p>
 
+
                                 </div>
                             </div>
                         </div>
-                        
+
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="course">
+                <div class="courseWide">
+                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i>Cybersecurity Program
+                    </p>
+                </div>
+                <div class="coursePlan">
+                    <div class="middle my-5">
+                        <div class="carrd">
+                            <div class="package">
+                                <h6 class="my-0">NOVA PRIME</h6>
+                            </div>
+
+                            <div class="carrdPadding">
+
+                                <div class="price">
+                                    <h2>₦250,000 <span style="font-size: 16px;">/3 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">+ 50+ virtual environments. </p>
+
+                                    <p> Start with CYBER SHIELD</p>
+
+                                    <button class="mt-3 btnStarted">Get Started</button>
+                                </div>
+
+                                <div class="details mt-4">
+                                    <p>✔ 50+ virtual environments</p>
+                                    <p>✔ CompTIA Security+</p>
+                                    <p>✔ Wireshark</p>
+                                    <p>✔ Nmap</p>
+                                    <p>✔ Metasploit</p>
+                                    <p>✔ Network Security</p>
+                                    <p>✔ Entry-level job prep</p>
+
+                                </div>
+                            </div>
+
+                        </div>
+
+
+                        <div class="carrd">
+                            <div class="package">
+                                <h6 class="my-0">AXIS IGNITE</h6>
+                            </div>
+
+                            <div class="carrdPadding">
+
+                                <div class="price">
+                                    <h2>₦550,000 <span style="font-size: 16px;">/5 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">100+ real-world simulations</p>
+
+                                    <p>Jump to SECURITY ANALYST</p>
+
+                                    <button class="mt-3 btnStarted">Get Started</button>
+                                </div>
+
+                                <div class="details mt-4">
+                                    <p>✔ 100+ real-world simulations</p>
+                                    <p>✔ CEH</p>
+                                    <p>✔ CySA+</p>
+                                    <p>✔ Burp Suite </p>
+                                    <p>✔ SIEM tools </p>
+                                    <p>✔ Threat Intelligence </p>
+
+                                    <p>✔ Job placement assistance</p>
+
+
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="carrd">
+                            <div class="package">
+                                <h6 class="my-0">QUANTA ELITE</h6>
+                            </div>
+
+                            <div class="carrdPadding">
+
+                                <div class="price">
+                                    <h2>₦1.5M <span style="font-size: 16px;">/12 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">200+ advanced pentests</p>
+
+                                    <p>Direct to ETHICAL HACKER PRO</p>
+
+                                    <button class="mt-3 btnStarted">Get Started</button>
+                                </div>
+
+                                <div class="details mt-4">
+                                    <p>✔ 200+ advanced pentests</p>
+                                    <p>✔ OSCP, CISSP</p>
+                                    <p>✔ Cobalt Strike</p>
+                                    <p>✔ Kali Linux </p>
+                                    <p>✔ Red Team Operations </p>
+                                    <p>✔ Threat Intelligence </p>
+                                    <p>✔ Executive mentorship</p>
+
+
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -581,778 +750,196 @@
 
             <div class="course">
                 <div class="courseWide">
-                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i> Graphics
-                        Design
+                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i>Database Management
                     </p>
                 </div>
                 <div class="coursePlan">
                     <div class="middle my-5">
                         <div class="carrd">
                             <div class="package">
-                                <h6 class="my-0">Starter</h6>
+                                <h6 class="my-0">NOVA PRIME</h6>
                             </div>
 
                             <div class="carrdPadding">
 
                                 <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
+                                    <h2>₦180,000 <span style="font-size: 16px;">/2 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">+ 5 live Projects. </p>
 
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
+                                    <p> Excel users wanting automation</p>
 
                                     <button class="mt-3 btnStarted">Get Started</button>
                                 </div>
 
                                 <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
+                                    <p>✔ 35 basic queries</p>
+                                    <p>✔ 5 live Projects</p>
+                                    <p>✔ MySQL </p>
+                                    <p>✔ MySQL, phpMyAdmin</p>
+                                    <p>✔ Freelance-ready</p>
                                 </div>
                             </div>
+
                         </div>
+
+
                         <div class="carrd">
                             <div class="package">
-                                <h6 class="my-0">Starter</h6>
+                                <h6 class="my-0">AXIS IGNITE</h6>
                             </div>
 
                             <div class="carrdPadding">
 
                                 <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
+                                    <h2>₦400,000 <span style="font-size: 16px;">/5 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">20+ complex schemas</p>
 
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
+                                    <p>Developers shifting to data roles</p>
 
                                     <button class="mt-3 btnStarted">Get Started</button>
                                 </div>
 
                                 <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
+                                    <p>✔ 30 real-world datasets</p>
+                                    <p>✔ PostgreSQL Professional</p>
+                                    <p>✔ PostgreSQL, DBeaver</p>
+                                    <p>✔ AWS RDS, Google Cloud SQL </p>
+
+                                    <p>✔ Job placement assistance</p>
+
+
                                 </div>
                             </div>
                         </div>
+
                         <div class="carrd">
                             <div class="package">
-                                <h6 class="my-0">Starter</h6>
+                                <h6 class="my-0">QUANTA ELITE</h6>
                             </div>
 
                             <div class="carrdPadding">
 
                                 <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
+                                    <h2>₦950,000 <span style="font-size: 16px;">/8 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">50+ complex schemas</p>
 
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
+                                    <p>Preparing for FAANG-level interviews</p>
 
                                     <button class="mt-3 btnStarted">Get Started</button>
                                 </div>
 
                                 <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
+                                    <p>✔ 50+ complex schemas</p>
+                                    <p>✔ Oracle Certified Master</p>
+                                    <p>✔ Oracle, NoSQL, Snowflake</p>
+                                    <p>✔ Multi-cloud deployments </p>
+                                    <p>✔ CTO mentorship </p>
+
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
+
+
             <div class="course">
                 <div class="courseWide">
-                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i> Graphics
-                        Design
+                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i>Cloud Computing Program
                     </p>
                 </div>
                 <div class="coursePlan">
                     <div class="middle my-5">
                         <div class="carrd">
                             <div class="package">
-                                <h6 class="my-0">Starter</h6>
+                                <h6 class="my-0">NOVA PRIME</h6>
                             </div>
 
                             <div class="carrdPadding">
 
                                 <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
+                                    <h2>₦300,000 <span style="font-size: 16px;">/3 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">50+ sandbox environments </p>
 
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
+                                    <p>IT professionals transitioning to cloud</p>
 
                                     <button class="mt-3 btnStarted">Get Started</button>
                                 </div>
 
                                 <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
+                                    <p>✔ 50+ sandbox environments</p>
+                                    <p>✔ AWS CCP/Azure Fundamentals</p>
+                                    <p>✔ Single-cloud (Choose 1) </p>
+                                    <p>✔ Entry-level cloud roles</p>
+
                                 </div>
                             </div>
+
                         </div>
+
+
                         <div class="carrd">
                             <div class="package">
-                                <h6 class="my-0">Starter</h6>
+                                <h6 class="my-0">AXIS IGNITE</h6>
                             </div>
 
                             <div class="carrdPadding">
 
                                 <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
+                                    <h2>₦600,000 <span style="font-size: 16px;">/6 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">15 real-world deployments</p>
 
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
+                                    <p>SysAdmins/Devs upskilling for DevOps</p>
 
                                     <button class="mt-3 btnStarted">Get Started</button>
                                 </div>
 
                                 <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
+                                    <p>✔ 15 real-world deployments</p>
+                                    <p>✔ AWS SAA/Azure Administrator</p>
+                                    <p>✔ Dual-cloud (AWS + Azure)</p>
+
+                                    <p>✔ Mid-level placement</p>
+
+
                                 </div>
                             </div>
                         </div>
+
                         <div class="carrd">
                             <div class="package">
-                                <h6 class="my-0">Starter</h6>
+                                <h6 class="my-0">QUANTA ELITE</h6>
                             </div>
 
                             <div class="carrdPadding">
 
                                 <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
+                                    <h2>₦950,000 <span style="font-size: 16px;">/8 months</span></h2>
+                                    <p class="my-0 fw-bold mb-4">30+ production-grade builds</p>
 
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
+                                    <p>Preparing for FAANG cloud architect roles</p>
 
                                     <button class="mt-3 btnStarted">Get Started</button>
                                 </div>
 
                                 <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
+                                    <p>✔ 30+ production-grade builds</p>
+                                    <p>✔ AWS Pro/Azure Architect</p>
+                                    <p>✔ AWS + Azure + GCP</p>
+                                    <p>✔ Solutions Architect mentorship
+                                    </p>
+
                                 </div>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
-            <div class="course">
-                <div class="courseWide">
-                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i> Graphics
-                        Design
-                    </p>
-                </div>
-                <div class="coursePlan">
-                    <div class="middle my-5">
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
 
-                            <div class="carrdPadding">
 
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
 
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="course">
-                <div class="courseWide">
-                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i> Graphics
-                        Design
-                    </p>
-                </div>
-                <div class="coursePlan">
-                    <div class="middle my-5">
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="course">
-                <div class="courseWide">
-                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i> Graphics
-                        Design
-                    </p>
-                </div>
-                <div class="coursePlan">
-                    <div class="middle my-5">
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="course">
-                <div class="courseWide">
-                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i> Graphics
-                        Design
-                    </p>
-                </div>
-                <div class="coursePlan">
-                    <div class="middle my-5">
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="course">
-                <div class="courseWide">
-                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i> Graphics
-                        Design
-                    </p>
-                </div>
-                <div class="coursePlan">
-                    <div class="middle my-5">
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="course">
-                <div class="courseWide">
-                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i> Graphics
-                        Design
-                    </p>
-                </div>
-                <div class="coursePlan">
-                    <div class="middle my-5">
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="course">
-                <div class="courseWide">
-                    <p class="fw-bold courseDrop my-0"><i class="fa-solid fa-angle-down iRotate me-4"></i> Graphics
-                        Design
-                    </p>
-                </div>
-                <div class="coursePlan">
-                    <div class="middle my-5">
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="carrd">
-                            <div class="package">
-                                <h6 class="my-0">Starter</h6>
-                            </div>
-
-                            <div class="carrdPadding">
-
-                                <div class="price">
-                                    <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                                    <p>A simplified 401(k) with limited features and easy administration.</p>
-
-                                    <button class="mt-3 btnStarted">Get Started</button>
-                                </div>
-
-                                <div class="details mt-4">
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                    <p>✔ $6,000 employee contribution limit</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
 
 
         </div>
