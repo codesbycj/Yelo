@@ -28,7 +28,7 @@
     <section id="aboutHead">
         <div class="aboutHead container">
             <div class="top text-center">
-                <p class="my-3" style="border: 1px solid black; width:fit-content; margin:auto; padding: 0 1.5rem; border-radius: 10px;">ABOUT US</p>
+                <!-- <p class="my-3" style="border: 1px solid black; width:fit-content; margin:auto; padding: 0 1.5rem; border-radius: 10px;">ABOUT US</p> -->
                 <h1 class="display-4 fw-bold">Creating the best web design education online</h1>
                 <p class="my-0" style="font-size: 15px;">Create a successful and fulfilling career as a freelance web designer. We'll teach you the in-demand skills you need to get there.</p>
             </div>
