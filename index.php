@@ -27,7 +27,7 @@
     <section id="hero">
         <div class="hero container">
             <div class="left">
-                <h2 class="display-4">Craft products that simplify and optimize life.</h2>
+                <h2 class="display-4">Develop products that simplify and improve daily life.</h2>
                 <p class="lead">Your partner in groundbreaking technology solutions, transforming ideas into impactful digital experiences</p>
 
                 <div class="inputSec">
@@ -44,7 +44,7 @@
 
             <div class="right">
                 <img src="assets/Smile.jpeg" alt="" srcset="">
-                <img src="assets/ontopsmile.svg" alt="" srcset="">
+                <img src="https://img.freepik.com/free-photo/woman-wearing-virtual-reality-simulator_23-2148910255.jpg?t=st=1735945674~exp=1735949274~hmac=a0a5903f865e09b0673364a3f02d4f18e88afaf0fc0a0b197fca3373b283a002&w=826" alt="" srcset="">
             </div>
         </div>
     </section>
