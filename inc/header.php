@@ -145,7 +145,7 @@
                         <a class="nav-link" href="login.php">Login</a>
                     </li>
                     <li class="nav-item">
-                        <button class="nav-link" href="#">Get Started</button>
+                        <a class="nav-link btn" href="web.php">Get Started</a>
                     </li>
                 </ul>
             </div>
