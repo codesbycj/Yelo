@@ -67,7 +67,7 @@
                 </div>
 
                 <div class="each">
-                    <img src="./assets/Portfolio.webp" alt="">
+                    <img src="./assets/casestudy1.webp" alt="">
 
                     <div class="details">
                         <p class="lead">WEBSITE</p>
@@ -94,12 +94,12 @@
                     </div>
 
 
-                    <img src="./assets/Portfolio.webp" alt="">
+                    <img src="./assets/casestudy2.webp" alt="">
 
                 </div>
 
                 <div class="each">
-                    <img src="./assets/Portfolio.webp" alt="">
+                    <img src="./assets/casestudy3.webp" alt="">
 
                     <div class="details">
                         <p class="lead">WEBSITE</p>
