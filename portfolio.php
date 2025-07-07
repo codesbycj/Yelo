@@ -20,297 +20,104 @@
 
 <body>
     <!-- NAVIGATION BAR -->
-    <?php include ('inc/header.php') ?>
+    <?php include('inc/header.php') ?>
 
     <section id="portfolio">
-        <div class="portfolio">
-            <div class="student">
-                <div class="cardimg">
-                    <div class="left">
-                        <img src="assets/port1.webp" alt="" srcset="">
-                    </div>
+        <div class="portfolioz ">
+            <div class="portHead text-center">
+                <div class="head container">
+                    <h1 class="display-1">WE BRING YOUR IDEAS  TO LIFE</h1>
+                    <p class="lead">Since 2009, we’ve worked with ambitious startups, global nonprofits,
+                        and Fortune 500s to design and develop digital experiences and custom applications
+                        that increase sales, boost brand awareness, and streamline operations.</p>
 
-                    <div class="right">
-                        <div class="absolutes">
-                            <p class="display-4 fw-bold">Front End Web Developer</p>
-                        </div>
-
-                        <div class="details">
-                            <p class="display-5 fw-bold mb-0">NEWMAN CHARLES</p>
-                            <p class="mt-0 fw-bold text-right">Front End Web Developer</p>
-                            <P>A front-end developer with years of experience, fluent in HTML, CSS, and JavaScript.
-                                Skilled in React and UI frameworks, they turn ideas into sleek, responsive interfaces.
-                                Obsessed with clean code, accessibility, and pixel-perfect design. Always learning,
-                                always shipping — passionate about building for the user.</P>
-                        </div>
-
-                        <div class="socials">
-                            <i class="fa-brands fa-facebook"></i>
-                            <i class="fa-brands fa-twitter"></i>
-                            <i class="fa-brands fa-linkedin"></i>
-                            <i class="fa-brands fa-instagram"></i>
-
-                        </div>
-                        <!-- <div class="stack">
-                            <img src="assets/react.png" alt="" srcset="">
-                            <img src="assets/stack bootstrap.png" alt="" srcset="">
-                            <img src="assets/stack js.png" alt="" srcset="">
-                            <img src="assets/stack laravel.png" alt="" srcset="">
-                            <img src="assets/stack tailwind.png" alt="" srcset="">
-                            <img src="assets/stack php.png" alt="" srcset="">
-                        </div> -->
-                    </div>
-                </div>
-                <div class="tag">
-                    <p><a href="">Send a Message</a></p>
-                </div>
-                <div class="curve_one">
-
-                </div>
-                <div class="curve-two">
-
+                    <a href="" class="btn">Book A Call</a>
                 </div>
             </div>
-            <div class="student">
-                <div class="cardimg">
-                    <div class="left">
-                        <img src="assets/port2.jpg" alt="" srcset="">
-                    </div>
 
-                    <div class="right">
-                        <div class="absolutes">
-                            <p class="display-4 fw-bold">Front End Web Developer</p>
-                        </div>
+            <div class="portfolio container">
+                <div class="each">
+                    <img src="./assets/Portfolio.webp" alt="">
 
-                        <div class="details">
-                            <p class="display-5 fw-bold mb-0">DAVID AMADI</p>
-                            <p class="mt-0 fw-bold text-right">Front End Web Developer</p>
-                            <P>A front-end developer with years of experience, fluent in HTML, CSS, and JavaScript.
-                                Skilled in React and UI frameworks, they turn ideas into sleek, responsive interfaces.
-                                Obsessed with clean code, accessibility, and pixel-perfect design. Always learning,
-                                always shipping — passionate about building for the user.</P>
-                        </div>
+                    <div class="details">
+                        <p class="lead">WEBSITE</p>
+                        <h2>Business Wire</h2>
 
-                        <div class="socials">
-                            <i class="fa-brands fa-facebook"></i>
-                            <i class="fa-brands fa-twitter"></i>
-                            <i class="fa-brands fa-linkedin"></i>
-                            <i class="fa-brands fa-instagram"></i>
+                        <p>A digital transformation to unite multiple applications into one powerful customer experience</p>
 
-                        </div>
-                        <!-- <div class="stack">
-                            <img src="assets/react.png" alt="" srcset="">
-                            <img src="assets/stack bootstrap.png" alt="" srcset="">
-                            <img src="assets/stack js.png" alt="" srcset="">
-                            <img src="assets/stack laravel.png" alt="" srcset="">
-                            <img src="assets/stack tailwind.png" alt="" srcset="">
-                            <img src="assets/stack php.png" alt="" srcset="">
-                        </div> -->
+                        <p>Branding / Content Strategy / Dev Ops / Enterprise System Development / Front End Development / Information Architecture / UX/UI Design / Website Design</p>
+
+                        <a href="" class="btn">View Live</a>
                     </div>
                 </div>
-                <div class="tag">
-                    <p><a href="">Send a Message</a></p>
-                </div>
-                <div class="curve_one">
 
-                </div>
-                <div class="curve-two">
+                <div class="each">
+                    <div class="details">
+                        <p class="lead">WEBSITE</p>
+                        <h2>Business Wire</h2>
 
-                </div>
-            </div>
-            <div class="student">
-                <div class="cardimg">
-                    <div class="left">
-                        <img src="assets/port4.jpg" alt="" srcset="">
+                        <p>A digital transformation to unite multiple applications into one powerful customer experience</p>
+
+                        <p>Branding / Content Strategy / Dev Ops / Enterprise System Development / Front End Development / Information Architecture / UX/UI Design / Website Design</p>
+
+                        <a href="" class="btn">View Live</a>
                     </div>
 
-                    <div class="right">
-                        <div class="absolutes">
-                            <p class="display-4 fw-bold">Front End Web Developer</p>
-                        </div>
+                    <img src="./assets/Portfolio.webp" alt="">
+                </div>
 
-                        <div class="details">
-                            <p class="display-5 fw-bold mb-0">NEWMAN CHARLES</p>
-                            <p class="mt-0 fw-bold text-right">Front End Web Developer</p>
-                            <P>A front-end developer with years of experience, fluent in HTML, CSS, and JavaScript.
-                                Skilled in React and UI frameworks, they turn ideas into sleek, responsive interfaces.
-                                Obsessed with clean code, accessibility, and pixel-perfect design. Always learning,
-                                always shipping — passionate about building for the user.</P>
-                        </div>
+                <div class="each">
+                    <img src="./assets/Portfolio.webp" alt="">
 
-                        <div class="socials">
-                            <i class="fa-brands fa-facebook"></i>
-                            <i class="fa-brands fa-twitter"></i>
-                            <i class="fa-brands fa-linkedin"></i>
-                            <i class="fa-brands fa-instagram"></i>
+                    <div class="details">
+                        <p class="lead">WEBSITE</p>
+                        <h2>Business Wire</h2>
 
-                        </div>
-                        <!-- <div class="stack">
-                            <img src="assets/react.png" alt="" srcset="">
-                            <img src="assets/stack bootstrap.png" alt="" srcset="">
-                            <img src="assets/stack js.png" alt="" srcset="">
-                            <img src="assets/stack laravel.png" alt="" srcset="">
-                            <img src="assets/stack tailwind.png" alt="" srcset="">
-                            <img src="assets/stack php.png" alt="" srcset="">
-                        </div> -->
+                        <p>A digital transformation to unite multiple applications into one powerful customer experience</p>
+
+                        <p>Branding / Content Strategy / Dev Ops / Enterprise System Development / Front End Development / Information Architecture / UX/UI Design / Website Design</p>
+
+                        <a href="" class="btn">View Live</a>
                     </div>
                 </div>
-                <div class="tag">
-                    <p><a href="">Send a Message</a></p>
-                </div>
-                <div class="curve_one">
 
-                </div>
-                <div class="curve-two">
+                <div class="each">
+                    <div class="details">
+                        <p class="lead">WEBSITE</p>
+                        <h2>Business Wire</h2>
 
-                </div>
-            </div>
-            <div class="student">
-                <div class="cardimg">
-                    <div class="left">
-                        <img src="assets/port1.webp" alt="" srcset="">
+                        <p>A digital transformation to unite multiple applications into one powerful customer experience</p>
+
+                        <p>Branding / Content Strategy / Dev Ops / Enterprise System Development / Front End Development / Information Architecture / UX/UI Design / Website Design</p>
+
+                        <a href="" class="btn">View Live</a>
                     </div>
 
-                    <div class="right">
-                        <div class="absolutes">
-                            <p class="display-4 fw-bold">Front End Web Developer</p>
-                        </div>
 
-                        <div class="details">
-                            <p class="display-5 fw-bold mb-0">NEWMAN CHARLES</p>
-                            <p class="mt-0 fw-bold text-right">Front End Web Developer</p>
-                            <P>A front-end developer with years of experience, fluent in HTML, CSS, and JavaScript.
-                                Skilled in React and UI frameworks, they turn ideas into sleek, responsive interfaces.
-                                Obsessed with clean code, accessibility, and pixel-perfect design. Always learning,
-                                always shipping — passionate about building for the user.</P>
-                        </div>
+                    <img src="./assets/Portfolio.webp" alt="">
 
-                        <div class="socials">
-                            <i class="fa-brands fa-facebook"></i>
-                            <i class="fa-brands fa-twitter"></i>
-                            <i class="fa-brands fa-linkedin"></i>
-                            <i class="fa-brands fa-instagram"></i>
+                </div>
 
-                        </div>
-                        <!-- <div class="stack">
-                            <img src="assets/react.png" alt="" srcset="">
-                            <img src="assets/stack bootstrap.png" alt="" srcset="">
-                            <img src="assets/stack js.png" alt="" srcset="">
-                            <img src="assets/stack laravel.png" alt="" srcset="">
-                            <img src="assets/stack tailwind.png" alt="" srcset="">
-                            <img src="assets/stack php.png" alt="" srcset="">
-                        </div> -->
+                <div class="each">
+                    <img src="./assets/Portfolio.webp" alt="">
+
+                    <div class="details">
+                        <p class="lead">WEBSITE</p>
+                        <h2>Business Wire</h2>
+
+                        <p>A digital transformation to unite multiple applications into one powerful customer experience</p>
+
+                        <p>Branding / Content Strategy / Dev Ops / Enterprise System Development / Front End Development / Information Architecture / UX/UI Design / Website Design</p>
+
+                        <a href="" class="btn">View Live</a>
                     </div>
-                </div>
-                <div class="tag">
-                    <p><a href="">Send a Message</a></p>
-                </div>
-                <div class="curve_one">
-
-                </div>
-                <div class="curve-two">
-
-                </div>
-            </div>
-            <div class="student">
-                <div class="cardimg">
-                    <div class="left">
-                        <img src="assets/port1.webp" alt="" srcset="">
-                    </div>
-
-                    <div class="right">
-                        <div class="absolutes">
-                            <p class="display-4 fw-bold">Front End Web Developer</p>
-                        </div>
-
-                        <div class="details">
-                            <p class="display-5 fw-bold mb-0">NEWMAN CHARLES</p>
-                            <p class="mt-0 fw-bold text-right">Front End Web Developer</p>
-                            <P>A front-end developer with years of experience, fluent in HTML, CSS, and JavaScript.
-                                Skilled in React and UI frameworks, they turn ideas into sleek, responsive interfaces.
-                                Obsessed with clean code, accessibility, and pixel-perfect design. Always learning,
-                                always shipping — passionate about building for the user.</P>
-                        </div>
-
-                        <div class="socials">
-                            <i class="fa-brands fa-facebook"></i>
-                            <i class="fa-brands fa-twitter"></i>
-                            <i class="fa-brands fa-linkedin"></i>
-                            <i class="fa-brands fa-instagram"></i>
-
-                        </div>
-                        <!-- <div class="stack">
-                            <img src="assets/react.png" alt="" srcset="">
-                            <img src="assets/stack bootstrap.png" alt="" srcset="">
-                            <img src="assets/stack js.png" alt="" srcset="">
-                            <img src="assets/stack laravel.png" alt="" srcset="">
-                            <img src="assets/stack tailwind.png" alt="" srcset="">
-                            <img src="assets/stack php.png" alt="" srcset="">
-                        </div> -->
-                    </div>
-                </div>
-                <div class="tag">
-                    <p><a href="">Send a Message</a></p>
-                </div>
-                <div class="curve_one">
-
-                </div>
-                <div class="curve-two">
-
-                </div>
-            </div>
-            <div class="student">
-                <div class="cardimg">
-                    <div class="left">
-                        <img src="assets/port1.webp" alt="" srcset="">
-                    </div>
-
-                    <div class="right">
-                        <div class="absolutes">
-                            <p class="display-4 fw-bold">Front End Web Developer</p>
-                        </div>
-
-                        <div class="details">
-                            <p class="display-5 fw-bold mb-0">NEWMAN CHARLES</p>
-                            <p class="mt-0 fw-bold text-right">Front End Web Developer</p>
-                            <P>A front-end developer with years of experience, fluent in HTML, CSS, and JavaScript.
-                                Skilled in React and UI frameworks, they turn ideas into sleek, responsive interfaces.
-                                Obsessed with clean code, accessibility, and pixel-perfect design. Always learning,
-                                always shipping — passionate about building for the user.</P>
-                        </div>
-
-                        <div class="socials">
-                            <i class="fa-brands fa-facebook"></i>
-                            <i class="fa-brands fa-twitter"></i>
-                            <i class="fa-brands fa-linkedin"></i>
-                            <i class="fa-brands fa-instagram"></i>
-
-                        </div>
-                        <!-- <div class="stack">
-                            <img src="assets/react.png" alt="" srcset="">
-                            <img src="assets/stack bootstrap.png" alt="" srcset="">
-                            <img src="assets/stack js.png" alt="" srcset="">
-                            <img src="assets/stack laravel.png" alt="" srcset="">
-                            <img src="assets/stack tailwind.png" alt="" srcset="">
-                            <img src="assets/stack php.png" alt="" srcset="">
-                        </div> -->
-                    </div>
-                </div>
-                <div class="tag">
-                    <p><a href="">Send a Message</a></p>
-                </div>
-                <div class="curve_one">
-
-                </div>
-                <div class="curve-two">
-
                 </div>
             </div>
         </div>
     </section>
 
     <!-- FOOTER -->
-    <?php include ('inc/footer.php') ?>
+    <?php include('inc/footer.php') ?>
 
     <!-- BOOTSTRAP JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"
@@ -338,7 +145,6 @@
                 prevEl: '.swiper-button-prev',
             }
         });
-
     </script>
 
 </body>

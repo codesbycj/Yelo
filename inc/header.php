@@ -133,7 +133,7 @@
                         <a class="nav-link" href="#">Education</a>
                     </div>
                     <div class="nav-item me-5">
-                        <a class="nav-link" href="pricing.php">Pricing</a>
+                        <a class="nav-link" href="pricing.php">Careers</a>
                     </div>
                     <div class="nav-item">
                         <a class="nav-link" href="about.php">About Us</a>
