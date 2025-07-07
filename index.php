@@ -39,8 +39,7 @@
                 <p style="margin-top: 2rem;">Already have a Yelocode account? <a href=""
                         style="font-weight: 500; color: var(--color-black);">Click here to log in</a></p>
 
-                <p style="font-size: 12px; margin-top: 4rem;">See our Privacy Policy to learn how we use and protect
-                    your information.</p>
+                <p style="font-size: 12px; margin-top: 4rem;">Your partner in groundbreaking technology solutions, transforming ideas into impactful digital experiences.</p>
             </div>
 
             <div id="carouselExampleAutoplaying" class="carousel slide right" data-bs-ride="carousel">
@@ -159,8 +158,7 @@
 
             <div class="business">
                 <img src="assets/stars.svg" alt="" srcset="">
-                <p>Yelocodesys.com Editor's Rating,
-                    Top 401(k) for Small Business</p>
+                <p>We strive to work with the best.</p>
             </div>
         </div>
     </section>
@@ -183,11 +181,12 @@
                             </div>
 
                             <div class="onTheSide">
-                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam praesentium minima
-                                    dolore quas magnam,</p>
-                                <div class="name" style="width: 140px;">
-                                    <h4 class="my-0 text-end">Sister Mary</h4>
-                                    <p class="lead my-0" style="font-size: 13px; text-align: right;"> AI Coach</p>
+                                <p>
+                                    "Yelocode transformed our business operations with their AI-driven solutions. Their team is professional, innovative, and truly dedicated to delivering results."
+                                </p>
+                                <div class="name" style="width: 170px;">
+                                    <h4 class="my-0 text-end">Dr Anthony K</h4>
+                                    <p class="lead my-0" style="font-size: 13px; text-align: right;"> </p>
                                 </div>
                             </div>
                         </div>
@@ -200,11 +199,12 @@
                             </div>
 
                             <div class="onTheSide">
-                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam praesentium minima
-                                    dolore quas magnam,</p>
-                                <div class="name" style="width: 140px;">
-                                    <h4 class="my-0 text-end">Sister Mary</h4>
-                                    <p class="lead my-0" style="font-size: 13px; text-align: right;"> AI Coach</p>
+                                <p>
+                                    "They listened to our needs and delivered a product that perfectly aligned with our vision. Yelocode doesn’t just build solutions—they build relationships."
+                                </p>
+                                <div class="name" style="width: 170px;">
+                                    <h4 class="my-0 text-end">— Mark T., CFO.</h4>
+                                    <p class="lead my-0" style="font-size: 13px; text-align: right;"> </p>
                                 </div>
                             </div>
                         </div>
@@ -217,11 +217,12 @@
                             </div>
 
                             <div class="onTheSide">
-                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam praesentium minima
-                                    dolore quas magnam,</p>
-                                <div class="name" style="width: 140px;">
-                                    <h4 class="my-0 text-end">Sister Mary</h4>
-                                    <p class="lead my-0" style="font-size: 13px; text-align: right;"> AI Coach</p>
+                                <p>
+                                    "The telehealth platform Yelocode developed for us exceeded all expectations. It’s seamless, secure, and a game-changer for our industry."
+                                </p>
+                                <div class="name" style="width: 170px;">
+                                    <h4 class="my-0 text-end">Johnson Burg</h4>
+                                    <p class="lead my-0" style="font-size: 13px; text-align: right;"> </p>
                                 </div>
                             </div>
                         </div>
@@ -234,10 +235,13 @@
                             </div>
 
                             <div class="onTheSide">
-                                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Veniam praesentium minima
-                                    dolore quas magnam,</p>
-                                <div class="name" style="width: 140px;">
-                                    <h4 class="my-0 text-end">Sister Mary</h4>
+                                <p>Partnering with Yelocode Systems has been an outstanding experience. Their team combines deep technical expertise with a clear understanding of business needs, delivering innovative, reliable,
+                                    and efficient solutions. From software development to system integration,
+                                    Yelocode Systems consistently goes above and beyond to ensure project success.
+                                    I highly recommend them to any organization looking for a dependable technology partner
+                                    that drives real results.</p>
+                                <div class="name" style="width: 170px;">
+                                    <h4 class="my-0 text-end">Denis Paul .J</h4>
                                     <p class="lead my-0" style="font-size: 13px; text-align: right;"> AI Coach</p>
                                 </div>
                             </div>
@@ -260,9 +264,8 @@
     <div id="start">
         <div class="start container">
             <div class="top" style="width: 80%;">
-                <h2 class="display-4 fw-bold">Start your road to retirement here</h2>
-                <p class="my-0">Get what works for you—whether that’s a plan for your company and employees or an
-                    account for yourself.</p>
+                <h2 class="display-4 fw-bold">What does the IT industry look like?</h2>
+                <p class="my-0">What skills do you need to work in IT?</p>
             </div>
 
             <div class="middle">
@@ -272,14 +275,23 @@
 
                     <div class="topTwo">
                         <div class="each">
-                            <h2>401(k)</h2>
-                            <p>Customizable retirement plans for companies of all shapes and sizes.</p>
+                            <h2>Current Trends Shaping IT (2024-2025)</h2>
+                            <p> AI Everywhere – AI integration in software, cybersecurity, cloud, and IoT.
+                                ✔ Quantum Computing – Early-stage but promising for cryptography & optimization.
+                                ✔ Sustainable IT – Green data centers, energy-efficient chips, e-waste reduction.
+                                ✔ Remote & Hybrid Work Tech – Collaboration tools (Zoom, Slack, Microsoft Teams).
+                                ✔ Metaverse & AR/VR – Growth in virtual workspaces, gaming, and training simulations.</p>
                         </div>
 
                         <div class="each">
-                            <h2>SEP IRA</h2>
-                            <p>Popular retirement accounts for self-employed individuals and other small business
-                                owners.</p>
+                            <h2>Challenges in the IT Industry</h2>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">1. Skills gap (demand for AI, cybersecurity, cloud experts).</li>
+                                <li class="list-group-item">2. Cybersecurity threats (more sophisticated attacks).</li>
+                                <li class="list-group-item">3. Regulatory pressures (data privacy laws, AI ethics).</li>
+                                <li class="list-group-item">4. Rapid obsolescence (constant need for upskilling).</li>
+                            </ul>
+
                         </div>
                     </div>
 
@@ -290,58 +302,57 @@
                     <button>For Individual Savers </button>
 
                     <div class="rightB">
-                        <h2>Traditional IRA, Roth IRA, Rollovers</h2>
-                        <p>Flexible retirement accounts for first-time savers and experienced investors alike.</p>
+                        <h2>Future Outlook:</h2>
+                        <p>The IT industry will continue to expand, driven by AI, automation,
+                            and digital transformation. Companies that adapt to cloud-native architectures,
+                            cybersecurity resilience, and AI adoption will lead the market.</p>
 
                     </div>
                 </div>
             </div>
         </div>
         <div class="bottom container">
-            <p><a href="">Compare 401(k) vs SEP IRA</a></p>
+            <p><a href="">Jumpstart Your Business</a></p>
             <p>
-                Did your employer open a 401(k) or SEP IRA? <a href="">Let’s set up your account</a></p>
+                Empowering Your Vision, Accelerating Your Success <a href="">Let's Guide You</a></p>
         </div>
     </div>
 
     <!-- SAVE ON FEES -->
     <div id="save">
         <div class="save container">
-            <h3 class="display-2 fw-bold">Save on fees</h3>
-            <p>We’ve always been bullish on minimizing costs to help people keep more of their money where it matters—in
-                their retirement account.</p>
+            <h3 class="display-2 fw-bold">Discover the Tech Innovations</h3>
+            <p>10+ years of experience in cloud, cybersecurity, and digital transformation</p>
 
             <p><a href="">See the fees you won’t be paying</a></p>
 
             <div class="cards mt-5">
                 <div class="eachCard">
                     <img src="assets/fees.svg" alt="" srcset="">
-                    <h3>No transaction fees</h3>
-                    <p class="my-0">We don’t charge fees for one-off transactions like rollovers, loans, distributions
-                        or plan
-                        wind-downs.</p>
+                    <h3>Courses Designed for Real-World Success</h3>
+                    <p class="my-0">Equip yourself with the skills that employers
+                        demand, through courses that focus on
+                        practical outcomes and real-world application.</p>
                 </div>
 
                 <div class="eachCard">
                     <img src="assets/fees1.svg" alt="" srcset="">
-                    <h3>No transaction fees</h3>
-                    <p class="my-0">We don’t charge fees for one-off transactions like rollovers, loans, distributions
-                        or plan
-                        wind-downs.</p>
+                    <h3>Learn at Your Own Pace
+                    </h3>
+                    <p class="my-0">We understand that your time is valuable.
+                        Our flexible online courses are customised to suit your schedule,
+                        offering you the freedom to learn at your own pace.</p>
                 </div>
 
                 <div class="eachCard">
                     <img src="assets/fees2.svg" alt="" srcset="">
-                    <h3>No transaction fees</h3>
-                    <p class="my-0">We don’t charge fees for one-off transactions like rollovers, loans, distributions
-                        or plan
-                        wind-downs.</p>
+                    <h3>Expert Support Every Step of the Way</h3>
+                    <p class="my-0">Our expert trainers offer 1-on-1 mentoring and support to
+                        ensure you get the most out of your course and reach your goals.</p>
                 </div>
             </div>
 
-            <p style="font-size: 11px; margin-top: 9rem;">See our Form ADV 2A Brochure for additional information
-                regarding Guideline’s
-                fees</p>
+
         </div>
 
 
@@ -352,8 +363,12 @@
         <div class="tech container">
             <div class="top">
                 <h1 class="display-6 fw-bold">Powerful tech at your fingertips</h1>
-                <p>We use technology to your advantage—making things easier, faster and more secure on the journey to
-                    retirement.</p>
+               
+                    <p>Experience innovation without limits. We put the latest technology directly in your hands — empowering you to work smarter, connect faster, and solve complex challenges with ease.</p>
+
+                   <p> Whether you're a business leader, a creator, or a curious mind, our solutions are designed to deliver speed, efficiency, and reliability, all accessible at the touch of a button. From intelligent software to next-gen hardware,
+                    the power to transform your world is just a tap away.
+                </p>
             </div>
 
             <div class="bottom">
@@ -370,14 +385,14 @@
 
                 <div class="each">
                     <div class="img">
-                        <img src="assets/graphics.avif" alt="" srcset="">
+                        <img src="assets/ba1.jpeg" alt="" srcset="">
                     </div>
 
                     <div class="text">
-                        <p>We’ve teamed up with top payroll providers to make setting up and managing a 401(k) seamless.
+                        <p>Explore what's possible - because powerful tech belongs at your fingertips.
                         </p>
 
-                        <a href="">See all payrolls <i class="fa-solid fa-arrow-right"></i></a>
+                        <a href="">See all courses <i class="fa-solid fa-arrow-right"></i></a>
                     </div>
                 </div>
             </div>
@@ -413,14 +428,15 @@
 
             <div class="right">
                 <div class="firstTwo">
-                    <p style="color: var(--color-btn); font-size: 20px; font-weight: 600;">Live Customer Support</p>
+                    <p style="color: var(--color-btn); font-size: 20px; font-weight: 600;">Top Performing Students</p>
                 </div>
 
                 <div class="down">
-                    <h2 class="display-5 fw-bolder">Support you can count on — and call</h2>
-                    <p class="my-3" style="font-size: 20px;">With Guideline, you and your team get support from our
-                        401(k) specialists via phone or email —
-                        our annual plan sponsor customer satisfaction score is 93%.10 See our customer support metrics
+                    <h2 class="display-5 fw-bolder">Consistent High Performance</h2>
+                    <p class="my-3" style="font-size: 20px;">We proudly celebrate the dedication, resilience,
+                         and outstanding achievements of our top-performing students. 
+                         Their hard work and pursuit of excellence set the standard for academic
+                          success and inspire others to reach their full potential.
                     </p>
                 </div>
             </div>
