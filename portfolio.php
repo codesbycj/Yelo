@@ -63,7 +63,7 @@
                         <a href="" class="btn">View Live</a>
                     </div>
 
-                    <img src="./assets/Portfolio.webp" alt="">
+                    <img src="./assets/casestudy.webp" alt="">
                 </div>
 
                 <div class="each">
