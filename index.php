@@ -33,16 +33,16 @@
 
                 <div class="inputSec">
                     <input type="text" name="" id="" placeholder="Enter your work email address">
-                    <button type="submit">Explore</button>
+                    <a class="btn" type="submit">Explore</a>
                 </div>
 
-                <p style="margin-top: 2rem;">Already have a Yelocode account? <a href=""
+                <p style="margin-top: 2rem;" class="">Already have a Yelocode account? <a href=""
                         style="font-weight: 500; color: var(--color-black);">Click here to log in</a></p>
 
-                <p style="font-size: 12px; margin-top: 4rem;">Your partner in groundbreaking technology solutions, transforming ideas into impactful digital experiences.</p>
+                <p style="font-size: 12px; margin-top: 4rem;" class="my-0">Your partner in groundbreaking technology solutions, transforming ideas into impactful digital experiences.</p>
             </div>
 
-            <div id="carouselExampleAutoplaying" class="carousel slide right" data-bs-ride="carousel">
+            <div id="carouselExampleAutoplaying" class="carousel slide right d-none d-md-block" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
                         <img src="assets/ba1.jpeg" class="d-block w-100" alt="...">
@@ -105,7 +105,6 @@
         </div>
     </section>
 
-
     <!-- STUDENTS DETAILS -->
     <?php include('inc/student.php') ?>
 
@@ -138,27 +137,27 @@
         <div class="businesses container">
             <div class="business">
                 <p class="display-4">10</p>
-                <p>Years</p>
+                <p class="under">Years</p>
             </div>
 
             <div class="business">
                 <p class="display-4">27</p>
-                <p>Developers</p>
+                <p class="under">Developers</p>
             </div>
 
             <div class="business">
                 <p class="display-4">76</p>
-                <p>Satisfied Customers</p>
+                <p class="under">Satisfied Customers</p>
             </div>
 
             <div class="business">
                 <p class="display-4">104+</p>
-                <p>Completed Projects</p>
+                <p class="under">Completed Projects</p>
             </div>
 
             <div class="business">
                 <img src="assets/stars.svg" alt="" srcset="">
-                <p>We strive to work with the best.</p>
+                <p class="under">We strive to work with the best.</p>
             </div>
         </div>
     </section>
@@ -263,7 +262,7 @@
     <!-- START YOUR ROAD -->
     <div id="start">
         <div class="start container">
-            <div class="top" style="width: 80%;">
+            <div class="top">
                 <h2 class="display-4 fw-bold">What does the IT industry look like?</h2>
                 <p class="my-0">What skills do you need to work in IT?</p>
             </div>
@@ -276,20 +275,20 @@
                     <div class="topTwo">
                         <div class="each">
                             <h2>Current Trends Shaping IT (2024-2025)</h2>
-                            <p> AI Everywhere – AI integration in software, cybersecurity, cloud, and IoT.
-                                ✔ Quantum Computing – Early-stage but promising for cryptography & optimization.
-                                ✔ Sustainable IT – Green data centers, energy-efficient chips, e-waste reduction.
-                                ✔ Remote & Hybrid Work Tech – Collaboration tools (Zoom, Slack, Microsoft Teams).
-                                ✔ Metaverse & AR/VR – Growth in virtual workspaces, gaming, and training simulations.</p>
+                            <p class="d-flex gap-3"> <span> ✔</span> AI Everywhere – AI integration in software, cybersecurity, cloud, and IoT. </p>
+                            <p class="d-flex gap-3"> <span> ✔</span> Quantum Computing – Early-stage but promising for cryptography & optimization. </p>
+                            <p class="d-flex gap-3"> <span>✔ </span>Sustainable IT – Green data centers, energy-efficient chips, e-waste reduction. </p>
+                            <p class="d-flex gap-3"> <span> ✔</span> Remote & Hybrid Work Tech – Collaboration tools (Zoom, Slack, Microsoft Teams). </p>
+                            <p class="d-flex gap-3"> <span> ✔</span> Metaverse & AR/VR – Growth in virtual workspaces, gaming, and training simulations.</p>
                         </div>
 
-                        <div class="each">
+                        <div class="each d-none d-lg-block">
                             <h2>Challenges in the IT Industry</h2>
                             <ul class="list-group list-group-flush">
-                                <li class="list-group-item">1. Skills gap (demand for AI, cybersecurity, cloud experts).</li>
-                                <li class="list-group-item">2. Cybersecurity threats (more sophisticated attacks).</li>
-                                <li class="list-group-item">3. Regulatory pressures (data privacy laws, AI ethics).</li>
-                                <li class="list-group-item">4. Rapid obsolescence (constant need for upskilling).</li>
+                                <li class="list-group-item d-flex gap-3"> <span>1.</span> Skills gap (demand for AI, cybersecurity, cloud experts).</li>
+                                <li class="list-group-item d-flex gap-3"> <span>2.</span> Cybersecurity threats (more sophisticated attacks).</li>
+                                <li class="list-group-item d-flex gap-3"> <span>3.</span> Regulatory pressures (data privacy laws, AI ethics).</li>
+                                <li class="list-group-item d-flex gap-3"> <span>4.</span> Rapid obsolescence (constant need for upskilling).</li>
                             </ul>
 
                         </div>
@@ -311,7 +310,7 @@
                 </div>
             </div>
         </div>
-        <div class="bottom container">
+        <div class="bottom container d-none d-md-block">
             <p><a href="">Jumpstart Your Business</a></p>
             <p>
                 Empowering Your Vision, Accelerating Your Success <a href="">Let's Guide You</a></p>
@@ -363,10 +362,10 @@
         <div class="tech container">
             <div class="top">
                 <h1 class="display-6 fw-bold">Powerful tech at your fingertips</h1>
-               
-                    <p>Experience innovation without limits. We put the latest technology directly in your hands — empowering you to work smarter, connect faster, and solve complex challenges with ease.</p>
 
-                   <p> Whether you're a business leader, a creator, or a curious mind, our solutions are designed to deliver speed, efficiency, and reliability, all accessible at the touch of a button. From intelligent software to next-gen hardware,
+                <p>Experience innovation without limits. We put the latest technology directly in your hands — empowering you to work smarter, connect faster, and solve complex challenges with ease.</p>
+
+                <p> Whether you're a business leader, a creator, or a curious mind, our solutions are designed to deliver speed, efficiency, and reliability, all accessible at the touch of a button. From intelligent software to next-gen hardware,
                     the power to transform your world is just a tap away.
                 </p>
             </div>
@@ -375,7 +374,7 @@
                 <div class="each">
                     <p class="display-6 fw-bold ees">Graphics Design <span class="arrow"><i
                                 class="fa-solid fa-arrow-right"></i></span></p>
-                    <p class="display-6 fw-bold ees">Full Stack Development <span class="arrow"><i
+                    <p class="display-6 fw-bold ees">Full- Stack Development <span class="arrow"><i
                                 class="fa-solid fa-arrow-right"></i></span></p>
                     <p class="display-6 fw-bold ees">Data Analysis <span class="arrow"><i
                                 class="fa-solid fa-arrow-right"></i></span></p>
@@ -383,7 +382,7 @@
                                 class="fa-solid fa-arrow-right"></i></span></p>
                 </div>
 
-                <div class="each">
+                <div class="each d-none d-md-block">
                     <div class="img">
                         <img src="assets/ba1.jpeg" alt="" srcset="">
                     </div>
@@ -402,7 +401,7 @@
     <!-- CUSTOMER SUPPORT -->
     <div id="support">
         <div class="support">
-            <div class="images">
+            <div class="images d-none d-md-block">
                 <div class="ups">
                     <img class="up itm1" src="assets/up.jpeg" alt="" srcset="">
                     <img class="up itm2" src="assets/up1.jpeg" alt="" srcset="">
@@ -434,9 +433,9 @@
                 <div class="down">
                     <h2 class="display-5 fw-bolder">Consistent High Performance</h2>
                     <p class="my-3" style="font-size: 20px;">We proudly celebrate the dedication, resilience,
-                         and outstanding achievements of our top-performing students. 
-                         Their hard work and pursuit of excellence set the standard for academic
-                          success and inspire others to reach their full potential.
+                        and outstanding achievements of our top-performing students.
+                        Their hard work and pursuit of excellence set the standard for academic
+                        success and inspire others to reach their full potential.
                     </p>
                 </div>
             </div>
