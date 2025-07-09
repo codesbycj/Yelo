@@ -30,9 +30,9 @@
                 <h3 class="display-5 fw-bolder">Each level prepares you for progressively higher-paying opportunities</h3>
 
                 <p class="my-0">Our structured learning path is designed to do more
-                     than build your skills, It propels your career forward.
-                      Each tier in our program focuses on preparing you for roles with greater responsibility,
-                     specialized expertise, and higher earning potential.</p>
+                    than build your skills, It propels your career forward.
+                    Each tier in our program focuses on preparing you for roles with greater responsibility,
+                    specialized expertise, and higher earning potential.</p>
             </div>
 
             <div class="middle my-5">
@@ -45,7 +45,7 @@
 
                         <div class="price">
                             <h4>Build essential skills and gain the qualifications for entry-level positions</h4>
-                        
+
                             <button class="mt-3 btnStarted">Get Started</button>
                         </div>
 
@@ -61,7 +61,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="carrd">
+                <div class="carrd d-none d-md-block">
                     <div class="package">
                         <h6 class="my-0">Intermediate Tier</h6>
                     </div>
@@ -72,7 +72,7 @@
                             <h4>
                                 Deepen your expertise with more complex tools, technologies, and processes used by professionals in your field.
                             </h4>
-                         
+
                             <button class="mt-3 btnStarted">Get Started</button>
                         </div>
 
@@ -87,7 +87,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="carrd">
+                <div class="carrd d-none d-lg-block">
                     <div class="package">
                         <h6 class="my-0">Advanced Tier</h6>
                     </div>
@@ -97,14 +97,14 @@
                         <div class="price">
                             <h4>
                                 Achieve expert-level proficiency in specialized tools,
-                                 technologies, and frameworks critical for leadership and expert roles.
+                                technologies, and frameworks critical for leadership and expert roles.
                             </h4>
-                     
+
                             <button class="mt-3 btnStarted">Get Started</button>
                         </div>
 
                         <div class="details mt-4">
-                            <p>✔  Leadership & Strategic Thinking Development</p>
+                            <p>✔ Leadership & Strategic Thinking Development</p>
                             <p>✔ Complex Problem Solving & Innovation Projects</p>
                             <p>✔ Expert-Level Certifications & Credentials</p>
                             <p>✔ Executive Communication & Influence Skills</p>
@@ -114,11 +114,13 @@
                         </div>
                     </div>
                 </div>
+
+                <p class="text-center fw-bold">Read More </p>
             </div>
 
             <div class="bottom">
                 <p class="my-0">
-                   The Advanced Tier equips you with the expertise, confidence,
+                    The Advanced Tier equips you with the expertise, confidence,
                     and recognition to thrive in top-tier roles and command higher earning potential.</p>
             </div>
         </div>
@@ -128,17 +130,17 @@
     <!-- SECOND SECTION -->
     <div id="pricingPay">
         <div class="pricingPay container">
-           
+
 
             <div class="right">
                 <h2 class="display-6 fw-bold">At Yelocode Systems, your success is our priority</h2>
-                <p class="my-0 lead">Equip yourself with the skills that employers demand, 
+                <p class="my-0 lead">Equip yourself with the skills that employers demand,
                     through courses that focus on practical outcomes and real-world application.</p>
 
                 <p class="my-0 lead">Our expert trainers offer 1-on-1 mentoring and support to ensure you get
-                     the most out of your course and reach your goals.</p>
+                    the most out of your course and reach your goals.</p>
 
-                
+
             </div>
         </div>
     </div>
@@ -937,63 +939,8 @@
         </div>
     </section>
 
-    <!-- START YOUR ROAD -->
-    <div id="start">
-        <div class="start container">
-            <div class="top" style="width: 80%;">
-                <h2 class="display-4 fw-bold">What does the IT industry look like?</h2>
-                <p class="my-0">What skills do you need to work in IT?</p>
-            </div>
+    <?php include('inc/industry.php') ?>
 
-            <div class="middle">
-                <div class="left">
-
-                    <button>For businesses</button>
-
-                    <div class="topTwo">
-                        <div class="each">
-                            <h2>Current Trends Shaping IT (2024-2025)</h2>
-                            <p> AI Everywhere – AI integration in software, cybersecurity, cloud, and IoT.
-                                ✔ Quantum Computing – Early-stage but promising for cryptography &amp; optimization.
-                                ✔ Sustainable IT – Green data centers, energy-efficient chips, e-waste reduction.
-                                ✔ Remote &amp; Hybrid Work Tech – Collaboration tools (Zoom, Slack, Microsoft Teams).
-                                ✔ Metaverse &amp; AR/VR – Growth in virtual workspaces, gaming, and training simulations.</p>
-                        </div>
-
-                        <div class="each">
-                            <h2>Challenges in the IT Industry</h2>
-                            <ul class="list-group list-group-flush">
-                                <li class="list-group-item">1. Skills gap (demand for AI, cybersecurity, cloud experts).</li>
-                                <li class="list-group-item">2. Cybersecurity threats (more sophisticated attacks).</li>
-                                <li class="list-group-item">3. Regulatory pressures (data privacy laws, AI ethics).</li>
-                                <li class="list-group-item">4. Rapid obsolescence (constant need for upskilling).</li>
-                            </ul>
-
-                        </div>
-                    </div>
-
-                </div>
-
-
-                <div class="right">
-                    <button>For Individual Savers </button>
-
-                    <div class="rightB">
-                        <h2>Future Outlook:</h2>
-                        <p>The IT industry will continue to expand, driven by AI, automation,
-                            and digital transformation. Companies that adapt to cloud-native architectures,
-                            cybersecurity resilience, and AI adoption will lead the market.</p>
-
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="bottom container">
-            <p><a href="">Jumpstart Your Business</a></p>
-            <p>
-                Empowering Your Vision, Accelerating Your Success <a href="">Let's Guide You</a></p>
-        </div>
-    </div>
 
     <!-- FAQ -->
     <section id="faq">

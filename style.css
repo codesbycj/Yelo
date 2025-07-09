@@ -1263,6 +1263,38 @@ footer {
   border-radius: 40px;
 }
 
+@media (max-width: 765px) {
+  .pricingHero .top {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .pricingHero .middle {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .pricingHero .middle .carrd {
+    width: 100%;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 995px) {
+  .pricingHero .top {
+    width: 100%;
+    margin: 0 auto;
+  }
+
+  .pricingHero .middle {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .pricingHero .middle .carrd {
+    width: 100%;
+  }
+}
+
 /* SECOND SECTION */
 #pricingPay {
   padding: 7rem 0;
@@ -1391,6 +1423,44 @@ footer {
 .faq .coursePlan {
   font-size: 20px;
   padding: 1rem 2rem;
+}
+
+@media (max-width: 765px) {
+  .table .middle {
+    flex-direction: column;
+  }
+
+  .table .middle .carrd {
+    width: 100%;
+  }
+
+  .courseWide p {
+    font-size: 20px;
+  }
+
+  .faq {
+    flex-direction: column;
+  }
+
+  .faq .left,
+  .faq .right {
+    width: 100%;
+  }
+
+  .faq .left {
+    text-align: center;
+  }
+}
+
+@media (min-width: 769px) and (max-width: 995px) {
+  .table .middle {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .table .middle .carrd {
+    width: 100%;
+  }
 }
 
 /* PORTFOLIO */
