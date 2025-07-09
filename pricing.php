@@ -27,87 +27,90 @@
     <div id="pricingHero">
         <div class="pricingHero container">
             <div class="top text-center">
-                <h2 class="display-3 fw-bolder">Each tier targets higher-paying roles</h2>
+                <h3 class="display-5 fw-bolder">Each level prepares you for progressively higher-paying opportunities</h3>
 
-                <p class="my-0">Our 401(k) plans come with low monthly costs and no transaction fees. So you won’t have
-                    to pay extra for plan setup, plan transfers, or 5500 prep1.
-
-                    You may be eligible for up to $16,500 in tax credits2 to help offset plan costs.</p>
+                <p class="my-0">Our structured learning path is designed to do more
+                     than build your skills, It propels your career forward.
+                      Each tier in our program focuses on preparing you for roles with greater responsibility,
+                     specialized expertise, and higher earning potential.</p>
             </div>
 
             <div class="middle my-5">
                 <div class="carrd">
                     <div class="package">
-                        <h6 class="my-0">Starter</h6>
+                        <h6 class="my-0">Foundational Tier</h6>
                     </div>
 
                     <div class="carrdPadding">
 
                         <div class="price">
-                            <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                            <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                            <p>A simplified 401(k) with limited features and easy administration.</p>
-
+                            <h4>Build essential skills and gain the qualifications for entry-level positions</h4>
+                        
                             <button class="mt-3 btnStarted">Get Started</button>
                         </div>
 
                         <div class="details mt-4">
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
+                            <p>✔ Essential Industry Knowledge</p>
+                            <p>✔ Fundamental Technical Skills</p>
+                            <p>✔ Introduction to Tools & Platforms</p>
+                            <p>✔ Problem-Solving & Critical Thinking Basics</p>
+                            <p>✔ Professional Communication Skills</p>
+                            <p>✔ Career Readiness Workshops</p>
+                            <p>✔ Industry-Specific Certifications (Optional)</p>
+                            <p>✔ Access to Entry-Level Job Opportunities</p>
                         </div>
                     </div>
                 </div>
                 <div class="carrd">
                     <div class="package">
-                        <h6 class="my-0">Starter</h6>
+                        <h6 class="my-0">Intermediate Tier</h6>
                     </div>
 
                     <div class="carrdPadding">
 
                         <div class="price">
-                            <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                            <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                            <p>A simplified 401(k) with limited features and easy administration.</p>
-
+                            <h4>
+                                Deepen your expertise with more complex tools, technologies, and processes used by professionals in your field.
+                            </h4>
+                         
                             <button class="mt-3 btnStarted">Get Started</button>
                         </div>
 
                         <div class="details mt-4">
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
+                            <p>✔ Specialized Knowledge Areas</p>
+                            <p>✔ Real-World Projects & Case Studies</p>
+                            <p>✔ Problem-Solving for Complex Challenges</p>
+                            <p>✔ Professional Collaboration & Teamwork</p>
+                            <p>✔ Industry Certification Preparation</p>
+                            <p>✔ Career Coaching & Mentorship Access</p>
+                            <p>✔ Access to Mid-Level Job Opportunities</p>
                         </div>
                     </div>
                 </div>
                 <div class="carrd">
                     <div class="package">
-                        <h6 class="my-0">Starter</h6>
+                        <h6 class="my-0">Advanced Tier</h6>
                     </div>
 
                     <div class="carrdPadding">
 
                         <div class="price">
-                            <h2>$39 <span style="font-size: 16px;">/month</span></h2>
-                            <p class="my-0 fw-bold mb-4">+ $4/mo per active participant</p>
-
-                            <p>A simplified 401(k) with limited features and easy administration.</p>
-
+                            <h4>
+                                Achieve expert-level proficiency in specialized tools,
+                                 technologies, and frameworks critical for leadership and expert roles.
+                            </h4>
+                     
                             <button class="mt-3 btnStarted">Get Started</button>
                         </div>
 
                         <div class="details mt-4">
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
-                            <p>✔ $6,000 employee contribution limit</p>
+                            <p>✔  Leadership & Strategic Thinking Development</p>
+                            <p>✔ Complex Problem Solving & Innovation Projects</p>
+                            <p>✔ Expert-Level Certifications & Credentials</p>
+                            <p>✔ Executive Communication & Influence Skills</p>
+                            <p>✔ Mentorship & Networking with Industry Leaders</p>
+                            <p>✔ Career Advancement & High-Paying Role Preparation</p>
+                            <p>✔ Priority Access to Exclusive Job Opportunities</p>
                         </div>
                     </div>
                 </div>
@@ -115,8 +118,8 @@
 
             <div class="bottom">
                 <p class="my-0">
-                    Self-employed? Guideline’s Solo 401(k)3 is purpose-built to meet your needs, for just $49/mo + 0.15%
-                    account fee. Learn more</p>
+                   The Advanced Tier equips you with the expertise, confidence,
+                    and recognition to thrive in top-tier roles and command higher earning potential.</p>
             </div>
         </div>
     </div>
@@ -125,28 +128,17 @@
     <!-- SECOND SECTION -->
     <div id="pricingPay">
         <div class="pricingPay container">
-            <div class="left">
-                <h5>$0 “unenrolled” employee fee</h5>
-                <h5>$0 “unenrolled” employee fee</h5>
-                <h5>$0 “unenrolled” employee fee</h5>
-            </div>
+           
 
             <div class="right">
-                <h2 class="display-6 fw-bold">Only pay for what you use</h2>
-                <p class="my-0 lead">Some providers make a quick buck by charging for every employee - even if they
-                    never sign up, never
-                    contribute, or have left your company.</p>
+                <h2 class="display-6 fw-bold">At Yelocode Systems, your success is our priority</h2>
+                <p class="my-0 lead">Equip yourself with the skills that employers demand, 
+                    through courses that focus on practical outcomes and real-world application.</p>
 
-                <p class="my-0 lead">At Guideline, we only bill you for employees who actively save with us. That’s our
-                    commitment to
-                    fair, transparent pricing.</p>
+                <p class="my-0 lead">Our expert trainers offer 1-on-1 mentoring and support to ensure you get
+                     the most out of your course and reach your goals.</p>
 
-                <a href="">Build your Plan</a>
-
-                <p class="my-0" style="font-size: 11px;">Refer to Guideline's Form ADV 2A Brochure for additional
-                    information
-                    regarding Yelocode Investment, LLC fees.
-                    See here for more information regarding Yelocode RK, LLC fees.</p>
+                
             </div>
         </div>
     </div>
@@ -157,7 +149,7 @@
             <!-- <h3>Features that fit your business and team</h3> -->
 
             <div class="block">
-                <h1 class="text-center fw-bolder">COURSES</h1>
+                <h1 class="text-center fw-bolder">Courses Price List</h1>
             </div>
         </div>
 
@@ -205,7 +197,7 @@
 
                                 <div class="price">
                                     <h2>₦550,000 <span style="font-size: 16px;">/5 months</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ 25 Live Projects. </p>
+                                    <p class="my-0 fw-bold mb-4">+ 40 Live Projects. </p>
 
                                     <p>Covering both frontend and backend development, Best value for full-stack</p>
 
@@ -232,7 +224,7 @@
 
                                 <div class="price">
                                     <h2>₦850,000 <span style="font-size: 16px;">/7 months</span></h2>
-                                    <p class="my-0 fw-bold mb-4">+ 30 Live Projects. </p>
+                                    <p class="my-0 fw-bold mb-4">+ 60 Live Projects. </p>
 
                                     <p>Covering both frontend and backend development, Prepares for high-paying roles</p>
 
@@ -949,9 +941,8 @@
     <div id="start">
         <div class="start container">
             <div class="top" style="width: 80%;">
-                <h2 class="display-4 fw-bold">Start your road to retirement here</h2>
-                <p class="my-0">Get what works for you—whether that’s a plan for your company and employees or an
-                    account for yourself.</p>
+                <h2 class="display-4 fw-bold">What does the IT industry look like?</h2>
+                <p class="my-0">What skills do you need to work in IT?</p>
             </div>
 
             <div class="middle">
@@ -961,14 +952,23 @@
 
                     <div class="topTwo">
                         <div class="each">
-                            <h2>401(k)</h2>
-                            <p>Customizable retirement plans for companies of all shapes and sizes.</p>
+                            <h2>Current Trends Shaping IT (2024-2025)</h2>
+                            <p> AI Everywhere – AI integration in software, cybersecurity, cloud, and IoT.
+                                ✔ Quantum Computing – Early-stage but promising for cryptography &amp; optimization.
+                                ✔ Sustainable IT – Green data centers, energy-efficient chips, e-waste reduction.
+                                ✔ Remote &amp; Hybrid Work Tech – Collaboration tools (Zoom, Slack, Microsoft Teams).
+                                ✔ Metaverse &amp; AR/VR – Growth in virtual workspaces, gaming, and training simulations.</p>
                         </div>
 
                         <div class="each">
-                            <h2>SEP IRA</h2>
-                            <p>Popular retirement accounts for self-employed individuals and other small business
-                                owners.</p>
+                            <h2>Challenges in the IT Industry</h2>
+                            <ul class="list-group list-group-flush">
+                                <li class="list-group-item">1. Skills gap (demand for AI, cybersecurity, cloud experts).</li>
+                                <li class="list-group-item">2. Cybersecurity threats (more sophisticated attacks).</li>
+                                <li class="list-group-item">3. Regulatory pressures (data privacy laws, AI ethics).</li>
+                                <li class="list-group-item">4. Rapid obsolescence (constant need for upskilling).</li>
+                            </ul>
+
                         </div>
                     </div>
 
@@ -979,17 +979,19 @@
                     <button>For Individual Savers </button>
 
                     <div class="rightB">
-                        <h2>Traditional IRA, Roth IRA, Rollovers</h2>
-                        <p>Flexible retirement accounts for first-time savers and experienced investors alike.</p>
+                        <h2>Future Outlook:</h2>
+                        <p>The IT industry will continue to expand, driven by AI, automation,
+                            and digital transformation. Companies that adapt to cloud-native architectures,
+                            cybersecurity resilience, and AI adoption will lead the market.</p>
 
                     </div>
                 </div>
             </div>
         </div>
         <div class="bottom container">
-            <p><a href="">Compare 401(k) vs SEP IRA</a></p>
+            <p><a href="">Jumpstart Your Business</a></p>
             <p>
-                Did your employer open a 401(k) or SEP IRA? <a href="">Let’s set up your account</a></p>
+                Empowering Your Vision, Accelerating Your Success <a href="">Let's Guide You</a></p>
         </div>
     </div>
 
@@ -1003,132 +1005,134 @@
             <div class="right">
                 <div class="course">
                     <div class="courseWide">
-                        <p class="courseDrop my-0">What plan fees do employers pay? </p>
+                        <p class="courseDrop my-0">Who is this program designed for?</p>
                         <i class="fa-solid fa-angle-down iRotate"></i>
                     </div>
 
 
                     <div class="coursePlan">
-                        <p class="my-0">Employers pay a flat monthly base fee and a flat monthly participant fee
-                            based
-                            on the number of active participants in the plan. Learn more.</p>
+                        <p class="my-0">Our programs are designed for beginners, career changers, and professionals looking to upgrade their skills and target higher-paying roles.</p>
                     </div>
                 </div>
                 <div class="course">
                     <div class="courseWide">
-                        <p class="courseDrop my-0">What plan fees do employers pay? </p>
+                        <p class="courseDrop my-0">Do I need prior experience to enroll?</p>
                         <i class="fa-solid fa-angle-down iRotate"></i>
                     </div>
 
 
                     <div class="coursePlan">
-                        <p class="my-0">Employers pay a flat monthly base fee and a flat monthly participant fee
-                            based
-                            on the number of active participants in the plan. Learn more.</p>
+                        <p class="my-0">No. The Foundational Tier requires no prior experience. Intermediate and Advanced Tiers build upon the skills learned in earlier levels.</p>
                     </div>
                 </div>
                 <div class="course">
                     <div class="courseWide">
-                        <p class="courseDrop my-0">What plan fees do employers pay? </p>
+                        <p class="courseDrop my-0"> How long does each tier take to complete? </p>
                         <i class="fa-solid fa-angle-down iRotate"></i>
                     </div>
 
 
                     <div class="coursePlan">
-                        <p class="my-0">Employers pay a flat monthly base fee and a flat monthly participant fee
-                            based
-                            on the number of active participants in the plan. Learn more.</p>
+                        <p class="my-0">Duration varies by tier, but most learners complete each level in 4 to 12 weeks with flexible schedules.</p>
                     </div>
                 </div>
                 <div class="course">
                     <div class="courseWide">
-                        <p class="courseDrop my-0">What plan fees do employers pay? </p>
+                        <p class="courseDrop my-0">Are your programs self-paced or instructor-led? </p>
                         <i class="fa-solid fa-angle-down iRotate"></i>
                     </div>
 
 
                     <div class="coursePlan">
-                        <p class="my-0">Employers pay a flat monthly base fee and a flat monthly participant fee
-                            based
-                            on the number of active participants in the plan. Learn more.</p>
+                        <p class="my-0">We offer both self-paced learning options and instructor-led sessions to suit different learning styles.</p>
                     </div>
                 </div>
                 <div class="course">
                     <div class="courseWide">
-                        <p class="courseDrop my-0">What plan fees do employers pay? </p>
+                        <p class="courseDrop my-0">Will I receive a certificate upon completion?</p>
                         <i class="fa-solid fa-angle-down iRotate"></i>
                     </div>
 
 
                     <div class="coursePlan">
-                        <p class="my-0">Employers pay a flat monthly base fee and a flat monthly participant fee
-                            based
-                            on the number of active participants in the plan. Learn more.</p>
+                        <p class="my-0">Yes. Participants who complete each tier receive industry-recognized certificates to validate their skills.</p>
                     </div>
                 </div>
                 <div class="course">
                     <div class="courseWide">
-                        <p class="courseDrop my-0">What plan fees do employers pay? </p>
+                        <p class="courseDrop my-0">Can I skip directly to the Intermediate or Advanced Tier? </p>
                         <i class="fa-solid fa-angle-down iRotate"></i>
                     </div>
 
 
                     <div class="coursePlan">
-                        <p class="my-0">Employers pay a flat monthly base fee and a flat monthly participant fee
-                            based
-                            on the number of active participants in the plan. Learn more.</p>
+                        <p class="my-0">Yes, but only if you can demonstrate equivalent knowledge or pass a skills assessment.</p>
                     </div>
                 </div>
                 <div class="course">
                     <div class="courseWide">
-                        <p class="courseDrop my-0">What plan fees do employers pay? </p>
+                        <p class="courseDrop my-0">What types of jobs can I apply for after completing the program? </p>
                         <i class="fa-solid fa-angle-down iRotate"></i>
                     </div>
 
 
                     <div class="coursePlan">
-                        <p class="my-0">Employers pay a flat monthly base fee and a flat monthly participant fee
-                            based
-                            on the number of active participants in the plan. Learn more.</p>
+                        <p class="my-0">Depending on the tier, you can apply for entry-level, specialist, or leadership roles in your chosen industry.</p>
                     </div>
                 </div>
                 <div class="course">
                     <div class="courseWide">
-                        <p class="courseDrop my-0">What plan fees do employers pay? </p>
+                        <p class="courseDrop my-0">Do you offer job placement support? </p>
                         <i class="fa-solid fa-angle-down iRotate"></i>
                     </div>
 
 
                     <div class="coursePlan">
-                        <p class="my-0">Employers pay a flat monthly base fee and a flat monthly participant fee
-                            based
-                            on the number of active participants in the plan. Learn more.</p>
+                        <p class="my-0">Yes. We provide career coaching, job search resources, and access to exclusive job opportunities for all learners.</p>
                     </div>
                 </div>
                 <div class="course">
                     <div class="courseWide">
-                        <p class="courseDrop my-0">What plan fees do employers pay? </p>
+                        <p class="courseDrop my-0">Are there any payment plans available? </p>
                         <i class="fa-solid fa-angle-down iRotate"></i>
                     </div>
 
 
                     <div class="coursePlan">
-                        <p class="my-0">Employers pay a flat monthly base fee and a flat monthly participant fee
-                            based
-                            on the number of active participants in the plan. Learn more.</p>
+                        <p class="my-0">We offer flexible payment options, including installment plans and discounts for full upfront payment</p>
                     </div>
                 </div>
                 <div class="course">
                     <div class="courseWide">
-                        <p class="courseDrop my-0">What plan fees do employers pay? </p>
+                        <p class="courseDrop my-0">What industries do your programs cover? </p>
                         <i class="fa-solid fa-angle-down iRotate"></i>
                     </div>
 
 
                     <div class="coursePlan">
-                        <p class="my-0">Employers pay a flat monthly base fee and a flat monthly participant fee
-                            based
-                            on the number of active participants in the plan. Learn more.</p>
+                        <p class="my-0">Our programs focus on high-demand fields such as technology, business, data science, cybersecurity, and more.</p>
+                    </div>
+                </div>
+                <div class="course">
+                    <div class="courseWide">
+                        <p class="courseDrop my-0"> Will I have access to mentors or career advisors? </p>
+                        <i class="fa-solid fa-angle-down iRotate"></i>
+                    </div>
+
+
+                    <div class="coursePlan">
+                        <p class="my-0">Yes. Intermediate and Advanced Tiers include mentorship opportunities and career advisory sessions.</p>
+                    </div>
+                </div>
+                <div class="course">
+                    <div class="courseWide">
+                        <p class="courseDrop my-0"> How do I get started? </p>
+                        <i class="fa-solid fa-angle-down iRotate"></i>
+                    </div>
+
+
+                    <div class="coursePlan">
+                        <p class="my-0">Simply sign up on our website, choose your preferred tier, and begin your journey toward higher-paying roles.</p>
                     </div>
                 </div>
             </div>
