@@ -2,7 +2,7 @@
 $(document).ready(function () {
   $(".coursePlan").hide();
   $(".iRotate").css("transform", "rotate(270deg)");
-  $('.content').hide();
+  $(".mobileContent").hide();
 });
 
 $(".courseWide").click(function () {
@@ -23,11 +23,17 @@ $(".courseWide").click(function () {
   }
 });
 
-$('.nav-item').click(function () {
-  console.log('baer');
-
-  $('.content').slideDown();
-})
+$(".mobileOptimizedLink").click(function () {
+    $(".mobileContent").slideUp();
 
 
+  console.log("baer");
+  const mobileItem = $(this).closest(".nav-item");
+  const theItem = mobileItem.find(".mobileContent");
 
+  if(!theItem.is(":visible")) {
+    theItem.slideDown();
+  } else {
+    theItem.slideUp();
+  }
+});
